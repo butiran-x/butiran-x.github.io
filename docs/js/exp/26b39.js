@@ -64,13 +64,14 @@ function createTextarea(id, height = "12em") {
   const styles = {
     flex: "1",
     height: typeof height === "number" ? `${height}px` : height,
-    overflowY: "scroll",
+    overflowY: "auto",
     fontFamily: "monospace",
     fontSize: "12px",
     lineHeight: "1.5",
     padding: "0.25em 0.5em",
     resize: "none",
     boxSizing: "border-box",
+    scrollbarGutter: "stable",
   };
 
   Object.assign(el.style, styles);
