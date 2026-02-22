@@ -13,6 +13,7 @@
 svg .cvpLabel {
 	font-family: sans-serif;
 	font-size: 11px;
+	fill: var(--fg);
 }
 
 svg .cvpLegend {
@@ -24,6 +25,7 @@ svg .cvpLegendBG {
 	stroke: black;
 	stroke-width: 1;
 	shape-rendering: crispEdges;
+	stroke: var(--line-axis);
 }
 
 svg .cvpTooltip {
@@ -33,17 +35,17 @@ svg .cvpTooltip {
 svg .cvpTooltipBG {
 	fill: rgba(255, 255, 255, 0.75);
 	stroke-width: 1;
-	shape-rendering: crispEdges;
-}
+	shape-rendering: crispEdges;z}
 
 svg .cvpAxis path,
 svg .cvpAxis line {
 	fill: none;
-	stroke: black;
+	stroke: var(--line-axis);
 	stroke-width: 1;
 	shape-rendering: crispEdges;
 }
 svg .cvpAxis text {
 	font-family: sans-serif;
 	font-size: 11px;
+	fill: var(--fg);
 }
