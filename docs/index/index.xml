@@ -1947,7 +1947,7 @@ fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16
 &lt;/svg&gt;
  &lt;/div&gt;
  
- &lt;div class="count"&gt;190&lt;/div&gt;
+ &lt;div class="count"&gt;191&lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="title-wrapper"&gt;
  &lt;div class="title"&gt;notes&lt;/div&gt;
@@ -5378,7 +5378,7 @@ rx="15%"
 fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16 -13 -22 -35 -32l-12-5c-35-15 -58 -33 -58 -72c0-36 27 -64 70 -64c31 0 53 11 68 39l-37 24c-8-15 -17 -21 -31 -21c-14 0-23 9 -23 21c0 14 9 20 30 29l12 5c41 18 64 35 64 76c0 43-34 67 -80 67c-45 0-74 -21 -88 -49zm-170 4c8 13 14 25 31 25c16 0 26-6 26 -30V203h48v164c0 50-29 72 -72 72c-39 0-61 -20 -72 -44z"/&gt;&lt;/svg&gt;
  &lt;/div&gt;
  
- &lt;div class="count"&gt;3&lt;/div&gt;
+ &lt;div class="count"&gt;4&lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="title-wrapper"&gt;
  &lt;div class="title"&gt;js-sim-ui&lt;/div&gt;
@@ -6432,5 +6432,115 @@ fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16
  &lt;/div&gt;
  &lt;div class="title-wrapper"&gt;
  &lt;div class="title"&gt;sys-dyn basic&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+
+
+&lt;style&gt;
+.category-card {
+ display: inline-flex;
+ flex-direction: column;
+ justify-content: space-between; 
+ width: 80px;
+ height: 80px;
+ margin: 0.3em;
+ border: 1px solid var(--muted-border);
+ border-radius: 8px;
+ padding: 4px;
+ background: var(--box-bg);
+ box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ box-sizing: border-box;
+ text-decoration: none;
+ color: var(--fg);
+}
+.category-card:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+}
+.category-card .top-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+}
+.category-card .logo-container {
+ width: 20px;
+ height: 20px;
+ display:flex;
+ align-items:center;
+ justify-content:center;
+}
+.category-card img, .category-card svg {
+ max-width: 100%;
+ max-height: 100%;
+}
+.category-card .count {
+ font-size: 0.75em;
+ color:#888;
+}
+.category-card .title-wrapper {
+ flex: 1;
+ display: flex;
+ align-items: center; 
+ justify-content: center;
+ text-align: center;
+ padding: 0 6px;
+}
+.category-card .title {
+ font-weight: 600;
+ font-size: 0.85em;
+ line-height: 1.1;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 3; 
+ overflow: hidden;
+ word-break: break-word;
+}
+&lt;/style&gt;
+
+
+
+&lt;a class="category-card" href="https://butiran-x.github.io/26b58/"&gt;
+ &lt;div class="top-row"&gt;
+ 
+ 
+ 
+ &lt;div class="logo-container"&gt;
+ &lt;?xml version="1.0" encoding="iso-8859-1"?&gt;
+&lt;!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools --&gt;
+&lt;svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 471.2 471.2" xml:space="preserve"&gt;
+&lt;path style="fill:#51D687;" d="M143.2,130.8c10.4,0,18.4,8.8,18.4,16.8l0,0c0-40-35.2-80-80-80S0,104.4,0,149.2
+	c0,10.4,8,19.2,19.2,19.2c10.4,0,19.2-8.8,19.2-19.2c0-23.2,19.2-42.4,42.4-42.4s42.4,19.2,42.4,42.4c0,0.8,0.8,0,0.8,0.8
+	C123.2,139.6,132.8,130.8,143.2,130.8z"/&gt;
+&lt;path style="fill:#2CAF61;" d="M265.6,131.6c-10.4,0-19.2,8.8-19.2,19.2c0,23.2-19.2,42.4-42.4,42.4s-42.4-19.2-42.4-42.4
+	c0-0.8,0-0.8,0-0.8c0,10.4-8,19.2-19.2,19.2c-10.4,0-19.2-8-19.2-18.4l0,0c0,44.8,36,80.8,80.8,80.8s80.8-36,80.8-80.8
+	C284.8,140.4,276,131.6,265.6,131.6z"/&gt;
+&lt;path style="fill:#51D687;" d="M328,131.6c10.4,0,19.2,8,19.2,18.4l0,0c0-44.8-36-80.8-80.8-80.8s-80.8,36-80.8,80.8
+	c0,10.4,8.8,19.2,19.2,19.2S224,160.4,224,150c0-23.2,19.2-42.4,42.4-42.4s42.4,19.2,42.4,42.4c0,0.8,0,0.8,0,0.8
+	C309.6,140.4,317.6,131.6,328,131.6z"/&gt;
+&lt;path style="fill:#2CAF61;" d="M452,131.6c-10.4,0-19.2,8.8-19.2,19.2c0,23.2-19.2,42.4-42.4,42.4S348,174,348,150.8
+	c0-0.8,0-0.8,0-0.8c0,10.4-8.8,19.2-19.2,19.2c-10.4,0-19.2-5.6-19.2-21.6l0,0c0,48,34.4,80.8,79.2,80.8s81.6-34.4,81.6-79.2
+	C470.4,138.8,462.4,131.6,452,131.6z"/&gt;
+&lt;path style="fill:#51D687;" d="M143.2,302c10.4,0,18.4,8,18.4,18.4l0,0c0-44.8-35.2-80.8-80-80.8S0,275.6,0,320.4
+	c0,10.4,8,19.2,19.2,19.2c10.4,0,19.2-8.8,19.2-19.2c0-23.2,19.2-42.4,42.4-42.4s42.4,19.2,42.4,42.4c0,0.8,0.8,0.8,0.8,0.8
+	C123.2,310.8,132.8,302,143.2,302z"/&gt;
+&lt;path style="fill:#2CAF61;" d="M265.6,302c-10.4,0-19.2,8.8-19.2,19.2c0,23.2-19.2,42.4-42.4,42.4s-42.4-19.2-42.4-42.4
+	c0-0.8,0-0.8,0-0.8c0,10.4-8,19.2-19.2,19.2c-10.4,0-19.2-8-19.2-17.6l0,0c0,44.8,36,80.8,80.8,80.8s80.8-36,80.8-80.8
+	C284.8,310.8,276,302,265.6,302z"/&gt;
+&lt;path style="fill:#51D687;" d="M328,302c10.4,0,19.2,8,19.2,18.4l0,0c0-44.8-36-80.8-80.8-80.8s-80.8,36-80.8,80.8
+	c0,10.4,8.8,19.2,19.2,19.2s19.2-8.8,19.2-19.2c0-23.2,19.2-42.4,42.4-42.4s42.4,19.2,42.4,42.4c0,0.8,0,0.8,0,0.8
+	C309.6,310.8,317.6,302,328,302z"/&gt;
+&lt;path style="fill:#2CAF61;" d="M452,302c-10.4,0-19.2,8.8-19.2,19.2c0,23.2-19.2,42.4-42.4,42.4S348,344.4,348,321.2
+	c0-0.8,0-0.8,0-0.8c0,10.4-9.6,20-20,20s-18.4-8.8-18.4-16.8l0,0c0,40,35.2,80,80,80s81.6-36.8,81.6-81.6
+	C470.4,311.6,462.4,302,452,302z"/&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="count"&gt;2&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="title-wrapper"&gt;
+ &lt;div class="title"&gt;tagebuch&lt;/div&gt;
  &lt;/div&gt;
 &lt;/a&gt;</description></item></channel></rss>
