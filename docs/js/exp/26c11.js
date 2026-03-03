@@ -11,15 +11,15 @@
 
 
 /**
- * Reads a param from a textarea element that starts with the specified key.
+ * Reads a parameter from a textarea element that starts with the specified key.
  *
  * @param {string} id - The ID of the textarea element to read from.
- * @param {string} key - The key (first word) identifying the param to retrieve.
- * @param {string} type - They type of param ("string", "int", "float").
- * @returns {string} The content of the param after the specified key.
+ * @param {string} key - The key (first word) identifying the parameter to retrieve.
+ * @param {"string" | "int" | "float"} type - The expected parameter type.
+ * @returns {string | number} The parameter value parsed according to the specified type.
  *
  * @example
- * const line = readLineFromTextarea("text-input", "KEY");
+ * const value = readParamFromTextarea("text-input", "KEY", "int");
  */
 function readParamFromTextarea(id, key, type="string") {
   /** @type {HTMLTextareaElement|null} */
