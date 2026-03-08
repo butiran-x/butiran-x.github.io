@@ -4356,7 +4356,7 @@ Root is located between
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{{&amp;lt; &lt;span style="color:#f92672"&gt;/&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;svgpath&lt;/span&gt; &amp;gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="refs"&gt;refs&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&amp;ldquo;SVG &lt;!-- raw HTML omitted --&gt;&amp;rdquo;, W3Schools, url 
+&lt;li&gt;&amp;ldquo;SVG &lt;path&gt;&amp;rdquo;, W3Schools, url 
 &lt;a
 
 	
@@ -6604,7 +6604,10 @@ Root is located between
  
 &lt;/a&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>jn8s6</title><link>https://butiran-x.github.io/000a/</link><pubDate>Mon, 18 Dec 2023 15:29:00 +0800</pubDate><guid>https://butiran-x.github.io/000a/</guid><description>&lt;h2 id="2023-1"&gt;2023-1&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;!--
+
+--&gt;</description></item><item><title>jn8s6</title><link>https://butiran-x.github.io/000a/</link><pubDate>Mon, 18 Dec 2023 15:29:00 +0800</pubDate><guid>https://butiran-x.github.io/000a/</guid><description>&lt;h2 id="2023-1"&gt;2023-1&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;21-dec-2023&lt;/code&gt; 
 &lt;a
@@ -16973,7 +16976,7 @@ $$&lt;/li&gt;
 	
 	
 	&lt;span&gt;
-		svg &lt;!-- raw HTML omitted --&gt; element &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+		svg &lt;g&gt; element &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
 	&lt;/span&gt;
  
 &lt;/a&gt;
@@ -20775,6 +20778,20 @@ itself, which shoulod create a balance between safe peaceful use of nuclear ener
 &lt;li&gt;Demo for spreadsheet files management and Python with Pandas retrieving example.&lt;/li&gt;
 &lt;li&gt;Solid example for relation between meta-analysis and metadata.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!--
+Dr. Wiwaha Anas Sumadja
+1. Apakah data lama bisa digunakan? Bagaimana cara menarik datanya?
+2. Bagaimana cara penyimpanan data sehingga tidak ada masalah dengan kerusakan laptop atau kameranya?
+3. Apakah ada aplikasi yg dapat digunakan untuk menganalisis metadata?
+
+Dr. Hutwan
+Bagaimana dengan dynamic data yg digunakan utk memprediksi masa depan? Kan harus ada asumsi. Apakah dibenarkan menggunakan asumsi untuk penggunaan data tsb?
+
+Prof. Depison
+Apa aplikasi yang bisa digunakan?
+
+Dr. Saitul .... ini saya ke toilet jadi tidak dengar pertanyaannya, Kang.
+--&gt;
 &lt;h2 id="news"&gt;news&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Kuliah Umum FAPET UNJA: Memahami Kekuatan Analisis Metadata dalam Penelitian
@@ -35289,7 +35306,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;/a&gt;
 ].&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/fnb/umzug-dan-move-on.png" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Kondisi ruang lama, kedua kunci untuk mengaksesnya, instalasi jaringan listrik, kabel internet, dan perangkat yang direlakan.&lt;/p&gt;
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Kondisi ruang lama, kedua kunci untuk mengaksesnya, instalasi jaringan listrik, kabel internet, dan perangkat yang direlakan.&lt;/p&gt;
 &lt;p&gt;Terdapat pula barang kenangan seperti PC 386 yang telah digunakan bersama untuk kelulusan S1. Saat itu laci HDD untuk bisa ditambahkan tanpa membuka casing, sudah merupakan barang yang canggih. Belum dikenal external HDD saat itu.&lt;/p&gt;</description></item><item><title>knn facies prediction well data</title><link>https://butiran-x.github.io/0177/</link><pubDate>Mon, 12 Sep 2022 18:40:00 +0700</pubDate><guid>https://butiran-x.github.io/0177/</guid><description>&lt;p&gt;Informasi disampaikan kurang dari seminggu bahwa akan sidang TA 2 [
 &lt;a
 
@@ -35602,10 +35619,12 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 ].&lt;/p&gt;
 &lt;p&gt;Sebuah peluru dilontarkan dengan lintasan parabola. Selama bergerak (sebelum mencapai permukaan tanah), di manakah peluru mengalami kelajuan minimum?&lt;/p&gt;
 &lt;p&gt;Petunjuk: Kelajuan adalah besar kecepatan yang terdiri dari komponen kecepatan arah mendatar $v_x$ dan vertikal $v_y$.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ans style="color:white;"&gt;
+Pada puncak lintasan parabola.
+&lt;/ans&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;dosen-fisika-dasar, &amp;ldquo;Modul Tutorial-1 Fidas 1A Semester I 2022-2023&amp;rdquo;, Program Studi Fisika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Teknologi Bandung, Email, 4 Sep 2022, 0626, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;dosen-fisika-dasar, &amp;ldquo;Modul Tutorial-1 Fidas 1A Semester I 2022-2023&amp;rdquo;, Program Studi Fisika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Teknologi Bandung, Email, 4 Sep 2022, 0626, url 
 &lt;a
 
 	
@@ -35929,7 +35948,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;h2 id="the-one"&gt;the one&lt;/h2&gt;
 &lt;p&gt;Perangkat keras yang datang kemarin pagi adalah seperti ditampilkan berikut ini.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://live.staticflickr.com/65535/52310248510_2a7cfd53be_z.jpg" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Sebuah all-in-one PC atau PC AiO Lenovo Intel Core i5-10210U dengan Windows 11 Home.&lt;/p&gt;</description></item><item><title>ml predict cardiovascular dis</title><link>https://butiran-x.github.io/0163/</link><pubDate>Thu, 25 Aug 2022 05:11:00 +0700</pubDate><guid>https://butiran-x.github.io/0163/</guid><description>&lt;p&gt;Dihubungi kurang dari satu minggu untuk kesediaan menguji pada suatu sidang proposal tesis, yang dengan cepat jadwal dapat disepakati dan berkas proposal [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Sebuah all-in-one PC atau PC AiO Lenovo Intel Core i5-10210U dengan Windows 11 Home.&lt;/p&gt;</description></item><item><title>ml predict cardiovascular dis</title><link>https://butiran-x.github.io/0163/</link><pubDate>Thu, 25 Aug 2022 05:11:00 +0700</pubDate><guid>https://butiran-x.github.io/0163/</guid><description>&lt;p&gt;Dihubungi kurang dari satu minggu untuk kesediaan menguji pada suatu sidang proposal tesis, yang dengan cepat jadwal dapat disepakati dan berkas proposal [
 &lt;a
 
 	
@@ -36053,10 +36072,10 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
  adalah sebagai berikut.
-&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description></item><item><title>we-01 intro reschedule</title><link>https://butiran-x.github.io/0161/</link><pubDate>Mon, 22 Aug 2022 17:50:00 +0700</pubDate><guid>https://butiran-x.github.io/0161/</guid><description>&lt;p&gt;Kuliah NT6094-01 dimulai pagi ini pada pukul 1300 di 9533. Hanya dua orang yang hadir secara luring. Sempat salah lantai, lalu salah sisi gedung, dan kembali ke sisi pertama.&lt;/p&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description></item><item><title>we-01 intro reschedule</title><link>https://butiran-x.github.io/0161/</link><pubDate>Mon, 22 Aug 2022 17:50:00 +0700</pubDate><guid>https://butiran-x.github.io/0161/</guid><description>&lt;p&gt;Kuliah NT6094-01 dimulai pagi ini pada pukul 1300 di 9533. Hanya dua orang yang hadir secara luring. Sempat salah lantai, lalu salah sisi gedung, dan kembali ke sisi pertama.&lt;/p&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>binary volvox colony md sim</title><link>https://butiran-x.github.io/0160/</link><pubDate>Mon, 22 Aug 2022 10:21:00 +0700</pubDate><guid>https://butiran-x.github.io/0160/</guid><description>&lt;p&gt;Sidang tesis magister Sains Komputasi dilakukan secara daring [
 &lt;a
 
@@ -36157,7 +36176,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
 ].&lt;/p&gt;
-&lt;p&gt;Tabel &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Judul berkas dan tautannya. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Tabel &lt;a name='tab1'&gt;1&lt;/a&gt;. Judul berkas dan tautannya. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -36289,7 +36308,8 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;br/&gt;
+&lt;div style="width:340px; height:40px; border:1px #aaf solid; background:#eef; text-align:center; padding-top:0.5em; color:#999; border-radius:10px;"&gt;width=340px height=40px&lt;/div&gt;
 &lt;h2 id="materials"&gt;materials&lt;/h2&gt;
 &lt;p&gt;Beberapa materi yang disampaikan meliputi&lt;/p&gt;</description></item><item><title>svg image width</title><link>https://butiran-x.github.io/0158/</link><pubDate>Sun, 21 Aug 2022 11:15:00 +0700</pubDate><guid>https://butiran-x.github.io/0158/</guid><description>&lt;p&gt;Ukuran 320px telah cocok untuk smartphone Galaxy A12 sebagaimana telah dicoba sebelumnya [
 &lt;a
@@ -36316,8 +36336,8 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 
 
 &lt;p&gt;Pada layar monitor akan terlihat baik dan lebar 440px belum mencapai pinggir teks sehingga diperkirakan ukuran 520px pun masih dapat terakomodasi.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;. Hasil mobile simulator untuk halaman ini pada komputer.&lt;/p&gt;</description></item><item><title>professor oration west hall</title><link>https://butiran-x.github.io/0157/</link><pubDate>Sun, 21 Aug 2022 06:34:00 +0700</pubDate><guid>https://butiran-x.github.io/0157/</guid><description>&lt;p&gt;Undangan diberikan secara personal pada suatu workshop [
+&lt;img src="https://butiran-x.github.io/bugx/img/svg/default-with-mobile-simulator.png" style="width:287px;" /&gt;
+&lt;p&gt;Gambar &lt;a name='fig2'&gt;2&lt;/a&gt;. Hasil mobile simulator untuk halaman ini pada komputer.&lt;/p&gt;</description></item><item><title>professor oration west hall</title><link>https://butiran-x.github.io/0157/</link><pubDate>Sun, 21 Aug 2022 06:34:00 +0700</pubDate><guid>https://butiran-x.github.io/0157/</guid><description>&lt;p&gt;Undangan diberikan secara personal pada suatu workshop [
 &lt;a
 
 	
@@ -36510,7 +36530,10 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
 ].&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style="text-align:center; padding-top:1em;"&gt;
+&lt;img src="https://butiran-x.github.io/bugx/img/lecturing/Putih.png" style="width:250px; display:inline" /&gt;
+&lt;img src="https://butiran-x.github.io/bugx/img/lecturing/Biru.png" style="width:250px; display:inline;" /&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/lecturing/zoom-soasialisasi-bauran-18aug2022-1457-rev.png" alt=""&gt;&lt;/p&gt;
 &lt;h2 id="webinar"&gt;webinar&lt;/h2&gt;
 &lt;p&gt;Kegiatan ini merupakan kegiatan ketiga untuk Sosialisasi Persiapan Kelas Bauran yang memandu para pengajar bagaimana untuk melaksanakan teknis perkuliahan bauran di dalam kelas.&lt;/p&gt;</description></item><item><title>res materials shopping</title><link>https://butiran-x.github.io/0153/</link><pubDate>Tue, 16 Aug 2022 18:58:00 +0700</pubDate><guid>https://butiran-x.github.io/0153/</guid><description>&lt;p&gt;Koordinasi dilakukan dan juga telah konsultasi dengan ko-pembimbing perihal RAB penelitian yang tenggatnya adalah hari ini [
@@ -36554,7 +36577,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 ].&lt;/p&gt;
 &lt;h2 id="allocation"&gt;allocation&lt;/h2&gt;
 &lt;p&gt;Terdapat alokasi sebesar 50% untuk barang habis pakai atasu sekitar 25 juta rupiah dengan rincian sebagai berikut.&lt;/p&gt;
-&lt;p&gt;Tabel &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Komponen biaya penelitian.&lt;/p&gt;
+&lt;p&gt;Tabel &lt;a name='tab1'&gt;1&lt;/a&gt;. Komponen biaya penelitian.&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -36637,7 +36660,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 ]&lt;/p&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>spr camera salinity real time</title><link>https://butiran-x.github.io/0151/</link><pubDate>Tue, 16 Aug 2022 05:24:00 +0700</pubDate><guid>https://butiran-x.github.io/0151/</guid><description>&lt;p&gt;Empat hari sebelum presentasi draf tesis 2 telah disampaikan [
 &lt;a
 
@@ -36680,7 +36703,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;h2 id="presentation"&gt;presentation&lt;/h2&gt;
 &lt;p&gt;Presentasi Tesis 2 dilaksanakan mulai sekitar jam sembilan dan berlangsung satu jam lebih durasinya, dengan termasuk diskusi. Banyak hal menarik yang dibicarakan.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/defense/t2/darozat-1203-tesis-2-16aug2022.jpg" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Fajar Mukharom Darozat melakukan presentasi karyanya Perancangan Alat Ukur Salinitas Digital Secara Real Time Berbasis Kamera untuk Budidaya Udang Memanfaatkan Fenomena Surface Plasmon Resonance di ruang 1203.&lt;/p&gt;</description></item><item><title>nanopattern stem cell simulation</title><link>https://butiran-x.github.io/0149/</link><pubDate>Mon, 15 Aug 2022 06:50:00 +0700</pubDate><guid>https://butiran-x.github.io/0149/</guid><description>&lt;p&gt;Pemberitahuan jadwal sidang sudah diterima tiga hari sebelumnya [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Fajar Mukharom Darozat melakukan presentasi karyanya Perancangan Alat Ukur Salinitas Digital Secara Real Time Berbasis Kamera untuk Budidaya Udang Memanfaatkan Fenomena Surface Plasmon Resonance di ruang 1203.&lt;/p&gt;</description></item><item><title>nanopattern stem cell simulation</title><link>https://butiran-x.github.io/0149/</link><pubDate>Mon, 15 Aug 2022 06:50:00 +0700</pubDate><guid>https://butiran-x.github.io/0149/</guid><description>&lt;p&gt;Pemberitahuan jadwal sidang sudah diterima tiga hari sebelumnya [
 &lt;a
 
 	
@@ -36861,7 +36884,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;h2 id="offline-and-online"&gt;offline and online&lt;/h2&gt;
 &lt;p&gt;Rapat bauran bagian luring dilaksanakan di Saung FI dengan dihadiri oleh tiga orang, lima lainnya secara daring dan satu terkendala putusnya aliran listrik.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/fnb/zoom-nuc-bio-hybrid-11aug2022.jpg" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Suasana rapat bauran bagian luring di saung Fisika.&lt;/p&gt;</description></item><item><title>meet new sk students 2022-1</title><link>https://butiran-x.github.io/0145/</link><pubDate>Thu, 11 Aug 2022 19:36:00 +0700</pubDate><guid>https://butiran-x.github.io/0145/</guid><description>&lt;p&gt;Pengenalan tiga program studi magister dilakanakan secara daring, dibuka oleh ketua program studi dan dilanjutkan dengan masing-masing wali angkatan barunya [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Suasana rapat bauran bagian luring di saung Fisika.&lt;/p&gt;</description></item><item><title>meet new sk students 2022-1</title><link>https://butiran-x.github.io/0145/</link><pubDate>Thu, 11 Aug 2022 19:36:00 +0700</pubDate><guid>https://butiran-x.github.io/0145/</guid><description>&lt;p&gt;Pengenalan tiga program studi magister dilakanakan secara daring, dibuka oleh ketua program studi dan dilanjutkan dengan masing-masing wali angkatan barunya [
 &lt;a
 
 	
@@ -36883,7 +36906,63 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 ].&lt;/p&gt;
 &lt;h2 id="three-programs"&gt;three programs&lt;/h2&gt;
 &lt;p&gt;Terdapat tiga program magister yang pertemuan dengan mahasiswa barunya, angkatan 2022, diselenggarakan secara bersamaan mulainya dan kemudian masing-masing diakhir dengan sesuai programnya masing-masing.&lt;/p&gt;
-&lt;p&gt;Tabel &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Susunan Acara Pengenalan Program Studi Magister Aktuaria, Pengajaran Matematika, dan Sains Komputasi.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description></item><item><title>crescent fano resonance</title><link>https://butiran-x.github.io/0144/</link><pubDate>Thu, 11 Aug 2022 19:08:00 +0700</pubDate><guid>https://butiran-x.github.io/0144/</guid><description>&lt;p&gt;A. A. P. Iskandar pada minggu terakhir bulan lalu menanyakan kesediaan untuk menguji TA 2 dari dua bimbingannya [
+&lt;p&gt;Tabel &lt;a name='tab1'&gt;1&lt;/a&gt;. Susunan Acara Pengenalan Program Studi Magister Aktuaria, Pengajaran Matematika, dan Sains Komputasi.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;No&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Mulai&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Selesai&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;&lt;center&gt;Acara&lt;/center&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;13.00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;13.30&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Pengenalan Peraturan Akademik ITB program magister&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;13.30&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;14.00&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Pengenalan kurikulum dan perkenalan dosen wali program studi Magister Aktuaria&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;3&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;14.00&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;14.30&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Pengenalan kurikulum dan perkenalan dosen wali program studi Magister Pengajaran Matematika&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;4&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;14.30&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;15.00&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Pengenalan kurikulum dan perkenalan dosen wali program studi Magister Sains Komputasi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Acara dilaksanakan pada hari Kamis, 11 Agustus 2022 dengan rinciannya diberikan pada Tabel 
+&lt;a
+
+	
+	
+		href = "#tab1"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		1 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/p&gt;</description></item><item><title>crescent fano resonance</title><link>https://butiran-x.github.io/0144/</link><pubDate>Thu, 11 Aug 2022 19:08:00 +0700</pubDate><guid>https://butiran-x.github.io/0144/</guid><description>&lt;p&gt;A. A. P. Iskandar pada minggu terakhir bulan lalu menanyakan kesediaan untuk menguji TA 2 dari dua bimbingannya [
 &lt;a
 
 	
@@ -37218,28 +37297,150 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;/a&gt;
 ] dapat dibuat capaian penelitian yang telah diperoleh selama ini.&lt;/p&gt;
 &lt;h2 id="research-road-map"&gt;research road map&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Peta jalan penelitian yang telah dilakukan selama ini.&lt;/p&gt;
-&lt;p&gt;Untuk mendapatkan tampilan yang baik, Gambar 
-&lt;a
-
-	
-	
-		href = "#fig1"
-
-		
-
-	
-
-	&gt;
-	
-	
-	&lt;span&gt;
-		1 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
-	&lt;/span&gt;
- 
-&lt;/a&gt;
- dilihat dengan menggunakan Google Chrome pada layar berresolusi 900px ×1440px dengan zoom 75% atau 1336px ×768px zoom 100% (perlu scroll up and down).&lt;/p&gt;</description></item><item><title>workshop eval prep lecture</title><link>https://butiran-x.github.io/0138/</link><pubDate>Mon, 08 Aug 2022 05:20:00 +0700</pubDate><guid>https://butiran-x.github.io/0138/</guid><description>&lt;p&gt;Diawali dengan suatu pemberitahuan [
+&lt;div class="mermaid" style="position: relative; top: -100px; left: -300px; height: 1300px; width: 1100px; border: 0px solid black; transform: scale(1.0);"&gt;
+flowchart LR
+ %% element use
+ %%
+ subgraph approach
+ A1 &amp; A2 &amp; A3
+ end
+ A1 --&gt; T01 --&gt; M01 --&gt; M01a --&gt; P01
+ A2 --&gt; T02
+ A2 ---&gt; T03
+ A3 --&gt; T04 --&gt; T02 --&gt; M02 --&gt; M02a ---&gt; P02
+ T04 --&gt; T03 --&gt; M02
+ T01 ---&gt; M02
+ A2 --&gt; T05 ----&gt; P01
+ T01 ---&gt; M03
+ M03 ---&gt; M03a --&gt; P03 &amp; P04
+ M03 ---&gt; M03b --&gt; P05 &amp; P06
+ M03 ---&gt; M03c --&gt; P11
+ T05 --&gt; M04 --&gt; M04a --&gt; P07
+ T01 ----&gt; M04
+ A2 --&gt; T06 ---&gt; M05 --&gt; M05a --&gt; P08
+ M05 ----&gt; M05b --&gt; P09 &amp; P10 &amp; P14 &amp; P21
+ M05 --&gt; M05c --&gt; P12
+ M05 --&gt; M05d --&gt; P13
+ A2 --&gt; T07 --&gt; M06
+ M06 ----&gt; M06a ---&gt; P15 &amp; P16
+ M06 --&gt; M06b --&gt; P17 &amp; P18
+ A2 ----&gt; T08 ----&gt; P19
+ M05 --&gt; M05e --&gt; P20
+ M05b --&gt; P20
+ %% element definition
+ %% approach
+ A1(( exp ))
+ T01([ material ])
+ M01([ polymer ])
+ M01a( PANI )
+ P01[ Electro-&lt;br&gt;chemo-&lt;br&gt;mechanics ]
+ M03([ granular])
+ M03a( sphere )
+ P03[ Oscillation ]
+ P04[ Segregation ]
+ M03b( disk )
+ P05[ Brazil Nut&lt;br&gt;Effect ]
+ P06[ Compaction ]
+ M03c( cement&lt;br&gt;raw meal )
+ P11[ Semi-Autogenous&lt;br&gt;Grinding Mill ]
+ A2(( com ))
+ T02([ MNDO ])
+ T03([ CI ])
+ M02([ oligomer ])
+ M02a( DR1 )
+ P02[ Nonlinear&lt;br&gt;Optics ]
+ T05([ FD ])
+ M04([ fluids ])
+ M04a( self-&lt;br&gt;siphon )
+ P07[ Single Fluid&lt;br&gt;Volume Element&lt;br&gt;Method ]
+ T06([ MD ])
+ M05([ spherical&lt;br&gt;particles ])
+ M05a( gravitation )
+ P08[Contactopy on&lt;br&gt;Asteroids]
+ M05b( spring )
+ P09[ Magnetic&lt;br&gt;Granular&lt;br&gt;Chain]
+ P10[ Tree&lt;br&gt;Model]
+ P14[ Microorganism&lt;br&gt;Locomotive&lt;br&gt;Organ]
+ P21[ Red Blood Cell&lt;br&gt;Model ]
+ M05c( water&lt;br&gt;wave )
+ P12[HCP Structure]
+ M05d(classical strong&lt;br&gt;force model)
+ P13[Hydrogen Isotopes&lt;br&gt;Collision]
+ M05e(bounce&lt;br&gt;in coil)
+ P20[ Simulation&lt;br&gt;of Measurement ]
+ T07([ ABM ])
+ M06([ agent ])
+ M06a( vehicle )
+ P15[ City Visiting&lt;br&gt;Probability ]
+ P16[ Origin-Destination&lt;br&gt; Matrix ]
+ M06b( particle )
+ P17[ Model for&lt;br&gt;Spread of Disease ]
+ P18[ Materials Phases ]
+ T08([ SD ])
+ P19[ Green Sea Port&lt;br&gt;Simulation]
+ A3(( the ))
+ T04([ QM ])
+ %%
+ %% class use
+ class A1 approach
+ class A2 approach
+ class A3 approach
+ class T01 field
+ class T02 field
+ class T03 field
+ class T04 field
+ class T05 field
+ class T06 field
+ class T07 field
+ class T08 field
+ class M01 material
+ class M02 material
+ class M03 material
+ class M04 material
+ class M05 material
+ class M06 material
+ class M01a molecule
+ class M02a molecule
+ class M03a molecule
+ class M03b molecule
+ class M03c molecule
+ class M04a molecule
+ class M05a molecule
+ class M05b molecule
+ class M05c molecule
+ class M05d molecule
+ class M05e molecule
+ class M06a molecule
+ class M06b molecule
+ class P01 phenomenon
+ class P02 phenomenon
+ class P03 phenomenon
+ class P04 phenomenon
+ class P05 phenomenon
+ class P06 phenomenon
+ class P07 phenomenon
+ class P08 phenomenon
+ class P09 phenomenon
+ class P10 phenomenon
+ class P11 phenomenon
+ class P12 phenomenon
+ class P13 phenomenon
+ class P14 phenomenon
+ class P15 phenomenon
+ class P16 phenomenon
+ class P17 phenomenon
+ class P18 phenomenon
+ class P19 phenomenon
+ class P20 phenomenon
+ class P21 phenomenon
+ %% class style definition
+ classDef approach fill:#fdd,stroke:#a33,stroke-width:1px
+ classDef field fill:#ffd,stroke:#aa3,stroke-width:1px
+ classDef material fill:#ddf,stroke:#33a,stroke-width:1px
+ classDef molecule fill:#dff,stroke:#3aa,stroke-width:1px
+ classDef phenomenon fill:#bfb,stroke:#3a3,stroke-width:1px
+&lt;/div&gt;
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Peta jalan penelitian yang telah dilakukan selama ini.&lt;/p&gt;</description></item><item><title>workshop eval prep lecture</title><link>https://butiran-x.github.io/0138/</link><pubDate>Mon, 08 Aug 2022 05:20:00 +0700</pubDate><guid>https://butiran-x.github.io/0138/</guid><description>&lt;p&gt;Diawali dengan suatu pemberitahuan [
 &lt;a
 
 	
@@ -37649,7 +37850,9 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;/a&gt;
 &lt;/p&gt;
 &lt;h2 id="suggested-reading"&gt;suggested reading&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style="width:140px; float:right; padding-left:1em;"&gt;
+&lt;img src="https://butiran-x.github.io/bugx/img/idea/zoom/coupled-cfd-dem-modeling-2016.png" /&gt;
+&lt;/div&gt;
 &lt;p&gt;Coupled CFD-DEM Modeling: Formulation, Imple-mentation and Application to Multiphase Flows [
 &lt;a
 
@@ -38544,7 +38747,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Screenshot suatu webinar: (a) model laju pertumbuhan, (b) data dan hasil fittingnya, (c) sensitivitas, dan (d) catatan.&lt;/p&gt;</description></item><item><title>draft p1 v1 for floating body</title><link>https://butiran-x.github.io/0123/</link><pubDate>Fri, 22 Jul 2022 17:42:00 +0700</pubDate><guid>https://butiran-x.github.io/0123/</guid><description>&lt;p&gt;Diskusi bimbingan tesis sudah dilakukan secara luring dan telah dibuat suatu draft awal untuk publikasi [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Screenshot suatu webinar: (a) model laju pertumbuhan, (b) data dan hasil fittingnya, (c) sensitivitas, dan (d) catatan.&lt;/p&gt;</description></item><item><title>draft p1 v1 for floating body</title><link>https://butiran-x.github.io/0123/</link><pubDate>Fri, 22 Jul 2022 17:42:00 +0700</pubDate><guid>https://butiran-x.github.io/0123/</guid><description>&lt;p&gt;Diskusi bimbingan tesis sudah dilakukan secara luring dan telah dibuat suatu draft awal untuk publikasi [
 &lt;a
 
 	
@@ -38639,9 +38842,31 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 	&lt;/span&gt;
  
 &lt;/a&gt;
-] beririsan dengan &lt;!-- raw HTML omitted --&gt;dua&lt;!-- raw HTML omitted --&gt; kegiatan lainnya (sempat terlupa satu). Dapat menjadi &lt;!-- raw HTML omitted --&gt;tiga&lt;!-- raw HTML omitted --&gt; empat bila sampai setelah break siang.&lt;/p&gt;
+] beririsan dengan &lt;s&gt;dua&lt;/s&gt; kegiatan lainnya (sempat terlupa satu). Dapat menjadi &lt;s&gt;tiga&lt;/s&gt; empat bila sampai setelah break siang.&lt;/p&gt;
 &lt;h2 id="measurement-flowchart"&gt;measurement flowchart&lt;/h2&gt;
-&lt;p&gt;Dari pertemuan sebelumnya disampaikan diagram alir seperti pada gambar berikut, yang belum memenuhi standar suatu diagram alir.&lt;/p&gt;</description></item><item><title>return to kms</title><link>https://butiran-x.github.io/0121/</link><pubDate>Wed, 20 Jul 2022 17:29:00 +0700</pubDate><guid>https://butiran-x.github.io/0121/</guid><description>&lt;p&gt;Setelah sekitar sebelas bulan vakum, tiga hari yang lalu satu pertanyaan, dan hari ini kembali mengajukan tiga belas pertanyaan di KMS ITB [
+&lt;p&gt;Dari pertemuan sebelumnya disampaikan diagram alir seperti pada gambar berikut, yang belum memenuhi standar suatu diagram alir.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/idea/pcm/flowchart-to-be-fixed.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Diagram alir proses pengukuran bahan PCM&lt;/p&gt;
+&lt;p&gt;Koreksi dari Gambar 
+&lt;a
+
+	
+	
+		href = "#fig1"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		1 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ diberikan pada gambar di bawah ini.&lt;/p&gt;</description></item><item><title>return to kms</title><link>https://butiran-x.github.io/0121/</link><pubDate>Wed, 20 Jul 2022 17:29:00 +0700</pubDate><guid>https://butiran-x.github.io/0121/</guid><description>&lt;p&gt;Setelah sekitar sebelas bulan vakum, tiga hari yang lalu satu pertanyaan, dan hari ini kembali mengajukan tiga belas pertanyaan di KMS ITB [
 &lt;a
 
 	
@@ -39581,7 +39806,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
 ] atau lainnya, dan sebagian informasi tentangnya diberikan pada tabel berikut ini.&lt;/p&gt;
-&lt;p&gt;Tabel &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Informasi singkat aplikasi yang diuji dan hasilnya.&lt;/p&gt;</description></item><item><title>warpas-discussion-old-debt</title><link>https://butiran-x.github.io/0107/</link><pubDate>Fri, 08 Jul 2022 06:03:00 +0700</pubDate><guid>https://butiran-x.github.io/0107/</guid><description>&lt;p&gt;Dilakukan diskusi sembari makan siang di Warung Pasta [
+&lt;p&gt;Tabel &lt;a name='tab1'&gt;1&lt;/a&gt;. Informasi singkat aplikasi yang diuji dan hasilnya.&lt;/p&gt;</description></item><item><title>warpas-discussion-old-debt</title><link>https://butiran-x.github.io/0107/</link><pubDate>Fri, 08 Jul 2022 06:03:00 +0700</pubDate><guid>https://butiran-x.github.io/0107/</guid><description>&lt;p&gt;Dilakukan diskusi sembari makan siang di Warung Pasta [
 &lt;a
 
 	
@@ -39642,7 +39867,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;h2 id="recall"&gt;recall&lt;/h2&gt;
 &lt;p&gt;Cairan yang diletakkan pada wadah dengan volume tertentu ditumpahkan dengan memiringkan wadah sehingga tidak membasahi wadah seperti diberikan pada gambar berikut.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/idea/pour/fuid-pouring.png" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Penumpahan fluida: posisi awal (kiri), cairan mulai tumpah dengan membahasi dinding luar wadah (tengah), dan sudut kritis di mana tumpahan cairan tidak lagi membasahi dinding luar wadah (kanan).&lt;/p&gt;</description></item><item><title>dsti-visit-fix-lan</title><link>https://butiran-x.github.io/0106/</link><pubDate>Thu, 07 Jul 2022 16:42:00 +0700</pubDate><guid>https://butiran-x.github.io/0106/</guid><description>&lt;p&gt;Permasalahan jaringan telah terpecahkan, yang diduga semacam switching loop [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Penumpahan fluida: posisi awal (kiri), cairan mulai tumpah dengan membahasi dinding luar wadah (tengah), dan sudut kritis di mana tumpahan cairan tidak lagi membasahi dinding luar wadah (kanan).&lt;/p&gt;</description></item><item><title>dsti-visit-fix-lan</title><link>https://butiran-x.github.io/0106/</link><pubDate>Thu, 07 Jul 2022 16:42:00 +0700</pubDate><guid>https://butiran-x.github.io/0106/</guid><description>&lt;p&gt;Permasalahan jaringan telah terpecahkan, yang diduga semacam switching loop [
 &lt;a
 
 	
@@ -40109,7 +40334,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
 ]&lt;/p&gt;
-&lt;p&gt;Table &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Informasi indeks karya pada S, GS, RG, WoS, Sin.&lt;/p&gt;
+&lt;p&gt;Table &lt;a name='tab1'&gt;1&lt;/a&gt;. Informasi indeks karya pada S, GS, RG, WoS, Sin.&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -40206,7 +40431,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;/table&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;url 
 &lt;a
 
 	
@@ -40231,7 +40456,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
  [20220624].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;url 
+&lt;li&gt;&lt;a name='r02'&gt;&lt;/a&gt;url 
 &lt;a
 
 	
@@ -40256,7 +40481,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
  [20220624].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;url 
+&lt;li&gt;&lt;a name='r03'&gt;&lt;/a&gt;url 
 &lt;a
 
 	
@@ -40281,7 +40506,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
  [20220624].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;url 
+&lt;li&gt;&lt;a name='r04'&gt;&lt;/a&gt;url 
 &lt;a
 
 	
@@ -40306,7 +40531,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
  [20220624]&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;url 
+&lt;li&gt;&lt;a name='r05'&gt;&lt;/a&gt;url 
 &lt;a
 
 	
@@ -40331,7 +40556,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  
 &lt;/a&gt;
  [20220624].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;url 
+&lt;li&gt;&lt;a name='r06'&gt;&lt;/a&gt;url 
 &lt;a
 
 	
@@ -40727,7 +40952,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;h2 id="steps"&gt;steps&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Buka situs Tracker dan carilah versi terinstal terbarunya, yang dalam hal ini adalah versi 6.0.8, rilis April 2022. &lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Buka situs Tracker dan carilah versi terinstal terbarunya, yang dalam hal ini adalah versi 6.0.8, rilis April 2022. &lt;br&gt;
 
 &lt;a
 
@@ -41071,8 +41296,9 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 ]. Dicoba untuk memberikan saran dan kritik agar program dapat berlangsung lebih baik.&lt;/p&gt;
 &lt;h2 id="lectures"&gt;lectures&lt;/h2&gt;
 &lt;p&gt;Terdapat 36 SKS yang perlu diambil pada tahun pertama oleh 13 F/S berbeda. Kebersamaan materi yang benar-benar hanyalah 12 SKS seperti diberikan di bawah ini.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Kebersamaan kuliah pada tahun bersama berbagai fakultas dan sekolah: sepenuhnya bersama (hijau), bersama dengan opsi (biru), dan berbeda bergantung F/S (merah).&lt;/p&gt;</description></item><item><title>bubble two settings</title><link>https://butiran-x.github.io/0090/</link><pubDate>Thu, 16 Jun 2022 11:24:00 +0700</pubDate><guid>https://butiran-x.github.io/0090/</guid><description>&lt;p&gt;Diskusi dari dilakukan dua sesi mengingat yang pertama [
+&lt;br&gt;
+&lt;img src="https://butiran-x.github.io/bugx/img/idea/others/matakuliah-ptpb-kurikulum-2019.png" style="width: 365px;" /&gt;
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Kebersamaan kuliah pada tahun bersama berbagai fakultas dan sekolah: sepenuhnya bersama (hijau), bersama dengan opsi (biru), dan berbeda bergantung F/S (merah).&lt;/p&gt;</description></item><item><title>bubble two settings</title><link>https://butiran-x.github.io/0090/</link><pubDate>Thu, 16 Jun 2022 11:24:00 +0700</pubDate><guid>https://butiran-x.github.io/0090/</guid><description>&lt;p&gt;Diskusi dari dilakukan dua sesi mengingat yang pertama [
 &lt;a
 
 	
@@ -41114,7 +41340,27 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;h2 id="observation"&gt;observation&lt;/h2&gt;
 &lt;p&gt;Untuk pengamatan digunakan dua kamera berbeda dengan parameter aliran yang sama akan tetapi kedalaman yang berbeda, seperti diberikan pada gambar berikut ini.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://butiran-x.github.io/bugx/img/bubble/bubble-two-settings.png" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Pengamatan gelembung untuk laju alir 0.4 l/min dengan perangkat keras yang berbeda.&lt;/p&gt;</description></item><item><title>com-sci-iscs-pre</title><link>https://butiran-x.github.io/0089/</link><pubDate>Wed, 15 Jun 2022 21:23:00 +0700</pubDate><guid>https://butiran-x.github.io/0089/</guid><description>&lt;p&gt;Suatu rapat untuk persiapan ISCS dan akreditasi ke LAMSAMA diadakan [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Pengamatan gelembung untuk laju alir 0.4 l/min dengan perangkat keras yang berbeda.&lt;/p&gt;
+&lt;p&gt;Perbedaan kedua hasil rekaman pada Gambar 
+&lt;a
+
+	
+	
+		href = "#fig1"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		1 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ dapat dimanfaatkan untuk tujuan berbeda, misalnya gelembung lebih bulat untuk konfirmasi ukuran dan gelembung lebih jarang untuk memudahkan tracking dalam mendapatkan jarak tempuh, waktu, lalu laju rata-rata.&lt;/p&gt;</description></item><item><title>com-sci-iscs-pre</title><link>https://butiran-x.github.io/0089/</link><pubDate>Wed, 15 Jun 2022 21:23:00 +0700</pubDate><guid>https://butiran-x.github.io/0089/</guid><description>&lt;p&gt;Suatu rapat untuk persiapan ISCS dan akreditasi ke LAMSAMA diadakan [
 &lt;a
 
 	
@@ -41503,8 +41749,8 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 &lt;/a&gt;
 ]. Di sini belum diterapkan benar-benar dan hanya menuliskan tanggal pelaksanaan suatu kegiatan atau tenggat suatu pekerjaan. Tanggal post terakhir adalah sore di hari pembuatannya dan yang berikutnya diubah hanya isinya. Diubah agar terdistribusi tanggalnya. Inkonsisten. Terdapat pula tanggal-tanggal kegiatan di masa depan agar tidak terlupa.&lt;/p&gt;
 &lt;h2 id="oct-2022"&gt;oct 2022&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;12-Wed-1100&lt;/code&gt; Ruang Rapat B, Lt 5 MA, CAS, Rapat Evaluasi dan Persiapan Visitasi MSK.&lt;!-- raw HTML omitted --&gt;
-&lt;code&gt;12-Wed-1000&lt;/code&gt; Ruang Rapat Lt.2 PPNN, CAS, Ujian Proposal Sra Harke Pratama.&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;code&gt;12-Wed-1100&lt;/code&gt; Ruang Rapat B, Lt 5 MA, CAS, Rapat Evaluasi dan Persiapan Visitasi MSK.&lt;br&gt;
+&lt;code&gt;12-Wed-1000&lt;/code&gt; Ruang Rapat Lt.2 PPNN, CAS, Ujian Proposal Sra Harke Pratama.&lt;br&gt;
 &lt;code&gt;12-Wed-0930&lt;/code&gt; ENHANCE Local Dissemination Event 
 &lt;a
 
@@ -41529,8 +41775,8 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
 	&lt;/span&gt;
  
 &lt;/a&gt;
- dan Auditorium CC Timur.&lt;!-- raw HTML omitted --&gt;
-&lt;code&gt;12-Wed-0700&lt;/code&gt; 9022 FI1101-04.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description></item><item><title>github repo site markdown</title><link>https://butiran-x.github.io/0082/</link><pubDate>Sun, 12 Jun 2022 04:21:00 +0700</pubDate><guid>https://butiran-x.github.io/0082/</guid><description>&lt;p&gt;Tulisan ini mungkin dapat disebut sebagai tutorial untuk membuat situs web dari suatu repositori di GitHub dengan hanya menggunakan Markdown dan merupakan kelanjutan dari tulisan lain [
+ dan Auditorium CC Timur.&lt;br&gt;
+&lt;code&gt;12-Wed-0700&lt;/code&gt; 9022 FI1101-04.&lt;br&gt;&lt;/p&gt;</description></item><item><title>github repo site markdown</title><link>https://butiran-x.github.io/0082/</link><pubDate>Sun, 12 Jun 2022 04:21:00 +0700</pubDate><guid>https://butiran-x.github.io/0082/</guid><description>&lt;p&gt;Tulisan ini mungkin dapat disebut sebagai tutorial untuk membuat situs web dari suatu repositori di GitHub dengan hanya menggunakan Markdown dan merupakan kelanjutan dari tulisan lain [
 &lt;a
 
 	
@@ -41698,7 +41944,7 @@ $$&lt;/p&gt;</description></item><item><title>3s concept in brief</title><link>h
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Observasi gelembung nitrogen dengan laju aliran: (a) 0.5 l/min, (b) 1 l/min, (c) 2 l/min, (d) 3 l/min, (e) 4 l/min, dan (f) 5 l/min.&lt;/p&gt;</description></item><item><title>new github repo site markdown</title><link>https://butiran-x.github.io/0080/</link><pubDate>Wed, 08 Jun 2022 18:50:00 +0700</pubDate><guid>https://butiran-x.github.io/0080/</guid><description>&lt;p&gt;Telah terdapat banyak informasi bagaimana membuat situs web di GitHub dengan memanfaatkan fitur GitHub Pages. Di sini akan disajikan informasi pembuatan situs web di GitHub tanpa menggunakan aplikasi GitHub Desktop [
+&lt;p&gt;Gambar &lt;a name='fig1'&gt;1&lt;/a&gt;. Observasi gelembung nitrogen dengan laju aliran: (a) 0.5 l/min, (b) 1 l/min, (c) 2 l/min, (d) 3 l/min, (e) 4 l/min, dan (f) 5 l/min.&lt;/p&gt;</description></item><item><title>new github repo site markdown</title><link>https://butiran-x.github.io/0080/</link><pubDate>Wed, 08 Jun 2022 18:50:00 +0700</pubDate><guid>https://butiran-x.github.io/0080/</guid><description>&lt;p&gt;Telah terdapat banyak informasi bagaimana membuat situs web di GitHub dengan memanfaatkan fitur GitHub Pages. Di sini akan disajikan informasi pembuatan situs web di GitHub tanpa menggunakan aplikasi GitHub Desktop [
 &lt;a
 
 	
@@ -42772,7 +43018,1470 @@ Version 101.0.4951.64 (Offizieller Build) (32-Bit)
 ].&lt;/p&gt;
 &lt;h2 id="groups"&gt;groups&lt;/h2&gt;
 &lt;p&gt;Terdapat delapan kelompok RBL sebagaimana diberikan pada tabel berikut ini.&lt;/p&gt;
-&lt;p&gt;Tabel &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Kelompok $G$, jumlah anggota $N$, dan tautan pengguna OSF-nya $U$.&lt;/p&gt;</description></item><item><title>update hugo windows 10</title><link>https://butiran-x.github.io/0066/</link><pubDate>Sun, 24 Apr 2022 10:05:00 +0700</pubDate><guid>https://butiran-x.github.io/0066/</guid><description>&lt;p&gt;Tulisan ini dibuat berbarengan dengan update Hugo dari versi 0.95.0 ke 0.97.3 mengikuti suatu informasi [
+&lt;p&gt;Tabel &lt;a name='tab1'&gt;1&lt;/a&gt;. Kelompok $G$, jumlah anggota $N$, dan tautan pengguna OSF-nya $U$.&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;$G$&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;$N$&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;&lt;center&gt;$U$&lt;/center&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;8&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/823th/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;823th&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/z3qxm/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;z3qxm&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/bu4f2/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;bu4f2&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/bdxg6/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;bdxg6&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/r3b95/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;r3b95&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/f5kum/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;f5kum&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/8ckpf/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;8ckpf&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/a7489/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;a7489&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;8&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/a86wr/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;a86wr&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/eq9kr/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;eq9kr&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/tzm8c/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;tzm8c&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/d248e/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;d248e&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/xg7hn/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;xg7hn&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/9a2fz/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;9a2fz&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/b2unk/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;b2unk&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/fz28d/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;fz28d&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;3&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;8&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/kpn86/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;kpn86&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/m6e2j/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;m6e2j&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/u7yvq/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;u7yvq&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/r6z5t/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;r6z5t&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/es98t/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;es98t&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/cmxs8/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;cmxs8&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/mwj87/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;mwj87&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/6ec9m/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;6ec9m&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;4&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;7&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/nkzxs/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;nkzxs&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/azxd7/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;azxd7&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,
+&lt;a
+
+	
+	
+		href = "https://osf.io/usfrd/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;usfrd&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/xpjd6/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;xpjd6&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/urm89/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;urm89&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/ru4km/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;ru4km&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/d3ufj/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;d3ufj&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;5&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;7&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/nf32z/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;nf32z&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/cs7t9/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;cs7t9&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/emnbp/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;emnbp&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/twunb/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;twunb&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/r6n3b/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;r6n3b&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/w2zym/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;w2zym&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/6vtqg/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;6vtqg&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;6&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;7&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/jb8p3/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;jb8p3&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/4jk2d/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;4jk2d&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/6ncyt/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;6ncyt&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/4jmn9/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;4jmn9&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/cnv38/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;cnv38&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/z24sy/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;z24sy&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/2jsuf/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;2jsuf&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;7&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;6&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/rsf25/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;rsf25&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/5et79/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;5et79&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/nq9pv/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;nq9pv&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/w6bj7/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;w6bj7&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/e84x7/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;e84x7&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/823dj/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;823dj&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;8&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;7&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/bm2r6/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;bm2r6&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/7x2ha/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;7x2ha&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/fa8wj/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;fa8wj&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/z7xm8/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;z7xm8&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+,&lt;br&gt;
+&lt;a
+
+	
+	
+		href = "https://osf.io/mcj9x/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;mcj9x&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/m7qjf/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;m7qjf&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+, 
+&lt;a
+
+	
+	
+		href = "https://osf.io/r9hu7/"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		&lt;code&gt;r9hu7&lt;/code&gt; &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Jumlah anggota kelompok berkisar antara 6-8 orang seperti diberikan pada Tabel 
+&lt;a
+
+	
+	
+		href = "#tab1"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		1 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/p&gt;</description></item><item><title>update hugo windows 10</title><link>https://butiran-x.github.io/0066/</link><pubDate>Sun, 24 Apr 2022 10:05:00 +0700</pubDate><guid>https://butiran-x.github.io/0066/</guid><description>&lt;p&gt;Tulisan ini dibuat berbarengan dengan update Hugo dari versi 0.95.0 ke 0.97.3 mengikuti suatu informasi [
 &lt;a
 
 	
@@ -44685,7 +46394,7 @@ p = mv,
 ].&lt;/p&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Carl Rod Nave, &amp;ldquo;Diffraction&amp;rdquo;, HyperPhysics, 2017, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Carl Rod Nave, &amp;ldquo;Diffraction&amp;rdquo;, HyperPhysics, 2017, url 
 &lt;a
 
 	
@@ -44748,7 +46457,7 @@ p = mv,
 	&lt;/span&gt;
  
 &lt;/a&gt;
-] dan template laporan&lt;!-- raw HTML omitted --&gt;/&lt;!-- raw HTML omitted --&gt;makalah RBL serta template catatan kemajuan [
+] dan template laporan&lt;wbr&gt;/&lt;wrb&gt;makalah RBL serta template catatan kemajuan [
 &lt;a
 
 	
@@ -44889,7 +46598,7 @@ p = mv,
 ].&lt;/p&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Andrew Zimmerman Jones, &amp;ldquo;Huygens&amp;rsquo; Principle of Diffraction&amp;rdquo;, ThoughtCo., 10 Nov 2019, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Andrew Zimmerman Jones, &amp;ldquo;Huygens&amp;rsquo; Principle of Diffraction&amp;rdquo;, ThoughtCo., 10 Nov 2019, url 
 &lt;a
 
 	
@@ -44914,7 +46623,7 @@ p = mv,
  
 &lt;/a&gt;
  [20220406].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Carl Rod Nave, &amp;ldquo;Huygens&amp;rsquo; Principle&amp;rdquo;, HyperPhysics, 2017, url 
+&lt;li&gt;&lt;a name='r02'&gt;&lt;/a&gt;Carl Rod Nave, &amp;ldquo;Huygens&amp;rsquo; Principle&amp;rdquo;, HyperPhysics, 2017, url 
 &lt;a
 
 	
@@ -44939,7 +46648,7 @@ p = mv,
  
 &lt;/a&gt;
  [20220406].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Wikipedia contributors, &amp;ldquo;Huygens–Fresnel principle&amp;rdquo;, Wikipedia, The Free Encyclopedia, 4 April 2022, 03:59 UTC, url 
+&lt;li&gt;&lt;a name='r03'&gt;&lt;/a&gt;Wikipedia contributors, &amp;ldquo;Huygens–Fresnel principle&amp;rdquo;, Wikipedia, The Free Encyclopedia, 4 April 2022, 03:59 UTC, url 
 &lt;a
 
 	
@@ -45177,7 +46886,7 @@ y(x, t) = A \sin (\omega t - kx + \phi)
 
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;t.b.a.&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;t.b.a.&lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>interference intensity slit 4</title><link>https://butiran-x.github.io/0035/</link><pubDate>Mon, 04 Apr 2022 05:56:00 +0700</pubDate><guid>https://butiran-x.github.io/0035/</guid><description>&lt;p&gt;Distribusi intensitas pada interferensi oleh empat celah dapat diperoleh menggunakan fasor [
 &lt;a
 
@@ -45598,7 +47307,7 @@ y(x, t) &amp;amp; = &amp;amp; A \sin (kx - \omega t + \varphi) \newline
 . Pengusulan ini dilakukan karena saat akan menjawabnya, telah ditutup di tengah-tengah menjawab. Ya, terlalu lambat untuk Stack Overflow.&lt;/p&gt;</description></item><item><title>windows security blocked items</title><link>https://butiran-x.github.io/0029/</link><pubDate>Fri, 01 Apr 2022 05:46:00 +0700</pubDate><guid>https://butiran-x.github.io/0029/</guid><description>&lt;p&gt;Sabagai salah satu dari ikon-ikon tersembunyi, Windows Security dapat memberikan notifikasi, yang salah satunya mengenai adalah &amp;lsquo;Actions recommended&amp;rsquo;.&lt;/p&gt;
 &lt;h2 id="condition"&gt;condition&lt;/h2&gt;
 &lt;p&gt;Dengan aplikasi Chrome (2 window luring, dan 2 window dengan 7 tab saat daring), Windows Explorer (2 window), PowerShell, Hugo, Git Bash, Task Manager.&lt;/p&gt;
-&lt;p&gt;Tabel &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Penggunaan resource pada keadaan luring dan daring.&lt;/p&gt;
+&lt;p&gt;Tabel &lt;a name='tab1'&gt;1&lt;/a&gt;. Penggunaan resource pada keadaan luring dan daring.&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -46332,7 +48041,7 @@ y(x, t) = A \sin (kx - \omega t + \phi)
 &lt;/ul&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;John Daniel Leon, &amp;ldquo;The Cookbook Method&amp;rdquo;, 4 Dec 2016, url 
+&lt;li&gt;&lt;a name='r01'&gt;John Daniel Leon, &amp;ldquo;The Cookbook Method&amp;rdquo;, 4 Dec 2016, url 
 &lt;a
 
 	
@@ -46357,7 +48066,7 @@ y(x, t) = A \sin (kx - \omega t + \phi)
  
 &lt;/a&gt;
  [20220327].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Sparisoma Viridi, &amp;ldquo;a cookbook for me as beginner&amp;rdquo;, GitHub, 26 Mar 2022, url 
+&lt;li&gt;&lt;a name='r02'&gt;Sparisoma Viridi, &amp;ldquo;a cookbook for me as beginner&amp;rdquo;, GitHub, 26 Mar 2022, url 
 &lt;a
 
 	
@@ -47092,7 +48801,7 @@ y(x, t) = A \sin (kx - \omega t + \phi)
 &lt;/ul&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Admin, &amp;ldquo;Kurikulum dan Silabus Program Studi Sarjana Fisika&amp;rdquo;, Physics, Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, 2021, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Admin, &amp;ldquo;Kurikulum dan Silabus Program Studi Sarjana Fisika&amp;rdquo;, Physics, Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, 2021, url 
 &lt;a
 
 	
@@ -47144,7 +48853,7 @@ y(x, t) = A \sin (kx - \omega t + \phi)
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;a name='r01'&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>shortcode citeas</title><link>https://butiran-x.github.io/0010/</link><pubDate>Mon, 21 Mar 2022 21:33:00 +0700</pubDate><guid>https://butiran-x.github.io/0010/</guid><description>&lt;p&gt;Suatu shortcode bernama citeas telah berhasil dibuat mengikuti petunjuk pembuatan shortcode [
 &lt;a
@@ -47304,8 +49013,8 @@ y(x, t) = A \sin (kx - \omega t + \phi)
 ].&lt;/p&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>fi1202-01 2021-2</title><link>https://butiran-x.github.io/0007/</link><pubDate>Sun, 20 Mar 2022 17:01:00 +0700</pubDate><guid>https://butiran-x.github.io/0007/</guid><description>&lt;p&gt;Kuliah FI1202 Fisika Dasar IIA, Kelas 01, FMIPA, ITB, Semester 2, Tahun 2021&lt;!-- raw HTML omitted --&gt;/&lt;!-- raw HTML omitted --&gt;2022, dengan silabusnya terdapat pada Program Studi Sarjana Fisika [
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>fi1202-01 2021-2</title><link>https://butiran-x.github.io/0007/</link><pubDate>Sun, 20 Mar 2022 17:01:00 +0700</pubDate><guid>https://butiran-x.github.io/0007/</guid><description>&lt;p&gt;Kuliah FI1202 Fisika Dasar IIA, Kelas 01, FMIPA, ITB, Semester 2, Tahun 2021&lt;wbr&gt;/&lt;wbr&gt;2022, dengan silabusnya terdapat pada Program Studi Sarjana Fisika [
 &lt;a
 
 	
@@ -47599,7 +49308,7 @@ y(x, t) = A \sin (kx - \omega t + \phi)
 &lt;/ul&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Admin, &amp;ldquo;Kurikulum dan Silabus Program Studi Sarjana Fisika&amp;rdquo;, Physics, Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, 2021, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Admin, &amp;ldquo;Kurikulum dan Silabus Program Studi Sarjana Fisika&amp;rdquo;, Physics, Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, 2021, url 
 &lt;a
 
 	
@@ -47644,12 +49353,82 @@ y(x, t) = A \sin (kx - \omega t + \phi)
  
 &lt;/a&gt;
 ].&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;canvas id="myChart" style="width:100%;max-width:390px"&gt;&lt;/canvas&gt;&lt;/p&gt;
+&lt;script&gt;
+var xyValues1 = [
+ {x:50, y:7},
+ {x:60, y:8},
+ {x:70, y:8},
+ {x:80, y:9},
+ {x:90, y:9},
+ {x:100, y:9},
+ {x:110, y:10},
+ {x:120, y:11},
+ {x:130, y:14},
+ {x:140, y:14},
+ {x:150, y:15}
+];
+var xyValues2 = [
+ {x:50, y:17},
+ {x:60, y:18},
+ {x:70, y:18},
+ {x:80, y:19},
+ {x:90, y:19},
+ {x:100, y:19},
+ {x:110, y:20},
+ {x:120, y:21},
+ {x:130, y:24},
+ {x:140, y:24},
+ {x:150, y:25}
+];
+
+new Chart("myChart", {
+ type: "scatter",
+ data: {
+ datasets: [
+		{
+			pointStyle: 'triangle',
+ pointRadius: 4,
+ pointBackgroundColor: "rgb(0,0,255)",
+ backgroundColor: "rgba(255,99,132,0.4)",
+ data: xyValues1,
+			label: 'T1',
+			showLine: true
+ },
+		{
+ pointRadius: 4,
+ pointBackgroundColor: "rgb(255, 0, 0)",
+ backgroundColor: "rgba(132,99,255,0.4)",
+ data: xyValues2,
+			label: 'T2'
+ },
+	
+		]
+ },
+ options: {
+ scales: {
+ x: {
+				min: 10, max: 200, type: 'linear', position: 'top',
+				title: {color: 'blue', display: true, text: 'x'}
+			},
+ y: {
+				min: 2, max: 26,
+				title: {color: 'blue', display: true, text: 'y'}
+			},
+ },
+		plugins: {
+			legend: {
+				display: true,
+				position: 'chartArea',
+				textAlign: 'right',
+			},
+		},
+ }
+});
+&lt;/script&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>add partials mermaid</title><link>https://butiran-x.github.io/0004/</link><pubDate>Sun, 20 Mar 2022 13:46:00 +0700</pubDate><guid>https://butiran-x.github.io/0004/</guid><description>&lt;p&gt;[
 &lt;a
 
@@ -47670,10 +49449,26 @@ y(x, t) = A \sin (kx - \omega t + \phi)
  
 &lt;/a&gt;
 ].&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class="mermaid"&gt;
+ flowchart TD
+		A([Mulai])
+		B[/a, b, c/]
+		C[D = bxb - 4ac]
+		D{D &gt;= 0}
+		E[x1]
+		F[x2]
+		G[/x1, x2/]
+		H([Selesai])
+		A --&gt; B --&gt; C --&gt; D
+		D -- Ya --&gt; E --&gt; F --&gt; G --&gt; H
+		D -- Tidak --&gt; H
+		style A fill:#f9f,stroke:#333,stroke-width:4px
+		classDef decision stroke:#f88
+		class D decision
+&lt;/div&gt;
 &lt;h2 id="notes"&gt;notes&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>add partials mathjax</title><link>https://butiran-x.github.io/0003/</link><pubDate>Sun, 20 Mar 2022 09:36:00 +0700</pubDate><guid>https://butiran-x.github.io/0003/</guid><description>&lt;p&gt;Salah satu theme Hugo yang disebut Codex telah dapat menampilkan formula matematika dengan MathJax [
 &lt;a
 
@@ -49180,7 +50975,7 @@ f(x) = 5 + x \sin^2 x
 &lt;/a&gt;
 ].&lt;/p&gt;
 &lt;h2 id="start-a-class"&gt;start a class&lt;/h2&gt;
-&lt;p&gt;Sebuah kelas dalam Python dimulai dengan mendefinisikannya menggunakan suatu kata kunci &lt;!-- raw HTML omitted --&gt;class&lt;!-- raw HTML omitted --&gt; yang kemudian dilajutkan dengan string pertama dalam kelas yang disebut dengan docstring dan string ini mengandung deskripsi kelas, yang walaupun tidak wajib, akan tetapi dianjurkan untuk dituliskan.&lt;/p&gt;</description></item><item><title>fi1201-01 2021-2</title><link>https://butiran-x.github.io/posts/0o/bugx-src/2/10/2022-01-11-fi1201-01-2021-2/</link><pubDate>Sun, 06 Mar 2022 21:24:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/2/10/2022-01-11-fi1201-01-2021-2/</guid><description>&lt;p&gt;Fisika Dasar IIA menyampaikan materi terkait listrik magnet, gelombang elektromagnetik, dan fisika modern sebagaimana tercantum dalam silabus singkatnya [
+&lt;p&gt;Sebuah kelas dalam Python dimulai dengan mendefinisikannya menggunakan suatu kata kunci &lt;a&gt;class&lt;/a&gt; yang kemudian dilajutkan dengan string pertama dalam kelas yang disebut dengan docstring dan string ini mengandung deskripsi kelas, yang walaupun tidak wajib, akan tetapi dianjurkan untuk dituliskan.&lt;/p&gt;</description></item><item><title>fi1201-01 2021-2</title><link>https://butiran-x.github.io/posts/0o/bugx-src/2/10/2022-01-11-fi1201-01-2021-2/</link><pubDate>Sun, 06 Mar 2022 21:24:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/2/10/2022-01-11-fi1201-01-2021-2/</guid><description>&lt;p&gt;Fisika Dasar IIA menyampaikan materi terkait listrik magnet, gelombang elektromagnetik, dan fisika modern sebagaimana tercantum dalam silabus singkatnya [
 &lt;a
 
 	
@@ -49485,7 +51280,7 @@ f(x) = 5 + x \sin^2 x
 &lt;li&gt;Haydar: Kutu daun dan kumbang koksi jumlahnya dapat dihitung sehingga bisa digunakan untuk pemodelan predator-prey. Untuk tahapan sebagai berikut (belum fix karena masih dirancang): Pertama kumbang koksi diperbanyak, sambil nunggu kumbang koksi cukup banyak, tanaman stroberi diinfeksikan kutu daun. Kemudian saat kutu daun sudah banyak dihitung populasi awal, dan setelah itu ditambah kumbang koksi dan diamati perubahan populasi kutu daun.&lt;/li&gt;
 &lt;li&gt;Rizky: Berkaitan dengan pengendalian lebah untuk penyerbukan, rencananya lebah yang digunakan langsung diinputkan ke dalam greenhouse beserta sarangnya, tidak mengendalikan lebah yang masih liar/ di alam langsung.&lt;/li&gt;
 &lt;li&gt;Rizky: Topik yang Haydar sampaikan sebelumnya sebenarnya merupakan 4 topik yang akan masing orang kerjakan Pak. Topik utamanya sebenarnya sistem pertanian terintegrasi dengan melibatkan komponen-komponen yang Haydar sebutkan tadi.&lt;/li&gt;
-&lt;li&gt;Istilah: &lt;!-- raw HTML omitted --&gt;Sistem Pertanian Terintegrasi&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;Istilah: &lt;a style="background: #ffb; color: #770;"&gt;Sistem Pertanian Terintegrasi&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;code&gt;06-mar-2022&lt;/code&gt; Mencari istilah pemodelan agrikultur dan memperoleh informasi berikut ini.
@@ -49557,7 +51352,7 @@ f(x) = 5 + x \sin^2 x
 &lt;/ul&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Indra Wibowo, &amp;ldquo;Permohonan Izin Penugasan Sebagai Pembimbing di SITH ITB Untuk mahasiswa Program Studi Rekayasa Pertanian&amp;rdquo;, Surat dari Wakil Dekan Akademik, Sekolah Ilmu dan Teknologi Hayati, Institut Teknologi Bandung, nomor 869/IT1.C11.1/TA.00/2021, 23 Feb 2022, kepada Dekan Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Teknologi Bandung, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Indra Wibowo, &amp;ldquo;Permohonan Izin Penugasan Sebagai Pembimbing di SITH ITB Untuk mahasiswa Program Studi Rekayasa Pertanian&amp;rdquo;, Surat dari Wakil Dekan Akademik, Sekolah Ilmu dan Teknologi Hayati, Institut Teknologi Bandung, nomor 869/IT1.C11.1/TA.00/2021, 23 Feb 2022, kepada Dekan Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Teknologi Bandung, url 
 &lt;a
 
 	
@@ -49582,7 +51377,7 @@ f(x) = 5 + x \sin^2 x
  
 &lt;/a&gt;
  [20220306].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Anton Agus Pratomo, &amp;ldquo;Suasana Tingkat Akhir&amp;rdquo;, WhatsApp Group, created 29 Aug 2021, url 
+&lt;li&gt;&lt;a name='r02'&gt;&lt;/a&gt;Anton Agus Pratomo, &amp;ldquo;Suasana Tingkat Akhir&amp;rdquo;, WhatsApp Group, created 29 Aug 2021, url 
 &lt;a
 
 	
@@ -49607,7 +51402,7 @@ f(x) = 5 + x \sin^2 x
  
 &lt;/a&gt;
  [20220303].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Tom Blair, &amp;ldquo;Agricultural Modeling: a Replacement for Sensors on the Farm?&amp;rdquo;, AgFunderNews, 30 Jun 2016, url 
+&lt;li&gt;&lt;a name='r03'&gt;&lt;/a&gt;Tom Blair, &amp;ldquo;Agricultural Modeling: a Replacement for Sensors on the Farm?&amp;rdquo;, AgFunderNews, 30 Jun 2016, url 
 &lt;a
 
 	
@@ -49632,7 +51427,7 @@ f(x) = 5 + x \sin^2 x
  
 &lt;/a&gt;
  [20220306].&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Dean P. Holzworth, Val Snow, Sander Janssen, Ioannis N. Athanasiadis, Marcello Donatelli, Gerrit Hoogenboom, Jeffrey W. White, Peter Thorburn, &amp;ldquo;Agricultural production systems modelling and software: Current status and future prospects&amp;rdquo;, Environmental Modelling &amp;amp; Software [Environ Model Softw], vol 72, no, p 276-286, Oct 2015, url 
+&lt;li&gt;&lt;a name='r04'&gt;&lt;/a&gt;Dean P. Holzworth, Val Snow, Sander Janssen, Ioannis N. Athanasiadis, Marcello Donatelli, Gerrit Hoogenboom, Jeffrey W. White, Peter Thorburn, &amp;ldquo;Agricultural production systems modelling and software: Current status and future prospects&amp;rdquo;, Environmental Modelling &amp;amp; Software [Environ Model Softw], vol 72, no, p 276-286, Oct 2015, url 
 &lt;a
 
 	
@@ -49657,7 +51452,7 @@ f(x) = 5 + x \sin^2 x
  
 &lt;/a&gt;
 .&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;James W. Jones, John M. Antle, Bruno Basso, Kenneth J. Boote, Richard T. Conant, Ian Foster, H. Charles J.Godfray, Mario Herrero, Richard E. Howitt, Sander Janssen, Brian A. Keating, Rafael Munoz-Carpena, Cheryl H. Porter, Cynthia Rosenzweig, Tim R. Wheeler, &amp;ldquo;Brief history of agricultural systems modeling&amp;rdquo;, Agricultural Systems [Agric Syst], vol 155, no, p 240-254, Jul 2017, url 
+&lt;li&gt;&lt;a name='r05'&gt;&lt;/a&gt;James W. Jones, John M. Antle, Bruno Basso, Kenneth J. Boote, Richard T. Conant, Ian Foster, H. Charles J.Godfray, Mario Herrero, Richard E. Howitt, Sander Janssen, Brian A. Keating, Rafael Munoz-Carpena, Cheryl H. Porter, Cynthia Rosenzweig, Tim R. Wheeler, &amp;ldquo;Brief history of agricultural systems modeling&amp;rdquo;, Agricultural Systems [Agric Syst], vol 155, no, p 240-254, Jul 2017, url 
 &lt;a
 
 	
@@ -49846,7 +51641,7 @@ B = \frac{\mu_0 N I}{2\pi r}
 \end{equation}&lt;/p&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="comments"&gt;comments&lt;/h3&gt;
 &lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;
@@ -49950,7 +51745,7 @@ B = \frac{\mu_0 I}{2\pi r}
 \end{equation}&lt;/p&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="comments"&gt;comments&lt;/h3&gt;
 &lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;</description></item><item><title>ampere's law</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/54/2022-03-02-ampere-law/</link><pubDate>Wed, 02 Mar 2022 06:03:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/54/2022-03-02-ampere-law/</guid><description>&lt;p&gt;Hukum Ampere menggambarkan hubungan antara integral medan magnetik di sepanjang lintasan tertutup Ampere dan arus listrik yang terlingkupi oleh lintasan tertutup tersebut [
@@ -49982,7 +51777,7 @@ B = \frac{\mu_0 I}{2\pi r}
 &lt;p&gt;![]({{ site.baseurl }}/assets/img/0/54/0541-d.png)&lt;/p&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="comments"&gt;comments&lt;/h3&gt;
 &lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;
@@ -50040,7 +51835,7 @@ B = \frac{\mu_0 I}{2\pi r}
 &lt;p&gt;![]({{ site.baseurl }}/assets/img/0/54/0540-a.png)&lt;/p&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Alexis Flynn, &amp;ldquo;What is the Amperian loop?&amp;rdquo;, Greedhead.net, 17 Dec 2020, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Alexis Flynn, &amp;ldquo;What is the Amperian loop?&amp;rdquo;, Greedhead.net, 17 Dec 2020, url 
 &lt;a
 
 	
@@ -50067,7 +51862,39 @@ B = \frac{\mu_0 I}{2\pi r}
  [20220302].&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="comments"&gt;comments&lt;/h3&gt;
-&lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;</description></item><item><title>biot-savart law straight wire</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/51/2022-02-26-biot-savart-law-straight-wire/</link><pubDate>Sun, 27 Feb 2022 19:13:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/51/2022-02-26-biot-savart-law-straight-wire/</guid><description>&lt;p&gt;Medan magnetik oleh kawat lurus berarus dapat diperoleh dengan menggunakan hukum Biot-Savart [
+&lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;
+&lt;h2 id="heading"&gt; &lt;/h2&gt;
+&lt;p&gt;{% comment %} 
+&lt;a
+
+	
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ • 
+&lt;a
+
+	
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ {% endcomment %}&lt;/p&gt;</description></item><item><title>biot-savart law straight wire</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/51/2022-02-26-biot-savart-law-straight-wire/</link><pubDate>Sun, 27 Feb 2022 19:13:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/51/2022-02-26-biot-savart-law-straight-wire/</guid><description>&lt;p&gt;Medan magnetik oleh kawat lurus berarus dapat diperoleh dengan menggunakan hukum Biot-Savart [
 &lt;a
 
 	
@@ -50913,7 +52740,7 @@ f&amp;rsquo;(x) = \begin{array}{c} \lim \newline \Delta x \rightarrow 0 \end{arr
 &lt;/ol&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Daniella Alscher, &amp;ldquo;What Is a Webinar? How to Engage and Educate Your Audience&amp;rdquo;, G2.com, Inc., 21 Apr 2020, url 
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;Daniella Alscher, &amp;ldquo;What Is a Webinar? How to Engage and Educate Your Audience&amp;rdquo;, G2.com, Inc., 21 Apr 2020, url 
 &lt;a
 
 	
@@ -53494,7 +55321,7 @@ A = \left[
 ].&lt;/p&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;D. S. , Komunikasi peribadi, 28 Jan 2022.&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;D. S. , Komunikasi peribadi, 28 Jan 2022.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="comments"&gt;comments&lt;/h3&gt;
 &lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;
@@ -53530,7 +55357,8 @@ A = \left[
  
 &lt;/a&gt;
  {% endcomment %}&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ans&gt;
+&lt;/ans&gt;
 &lt;p&gt;{% comment %}
 {% endcomment %}&lt;/p&gt;</description></item><item><title>jan review</title><link>https://butiran-x.github.io/posts/0o/bugx-src/2/00/2022-01-27-jan-review/</link><pubDate>Fri, 28 Jan 2022 20:06:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/2/00/2022-01-27-jan-review/</guid><description>&lt;p&gt;Menarik untuk membaca mengenai berbagai hal, seperti teknologi nuklir dan struktur elektronik bahan, yang saat ini sedang dikembangkan di lingkungan sendiri.&lt;/p&gt;
 &lt;h1 id="info"&gt;info&lt;/h1&gt;
@@ -53632,7 +55460,7 @@ err = 0.0
 root = 9.87654321
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a name='r01'&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="comments"&gt;comments&lt;/h3&gt;
 &lt;p&gt;{% comment %} data-width=&amp;ldquo;390&amp;rdquo; {% endcomment %}&lt;/p&gt;</description></item><item><title>bisection method</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/40/2022-01-26-bisection-method/</link><pubDate>Wed, 26 Jan 2022 18:42:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/40/2022-01-26-bisection-method/</guid><description>&lt;p&gt;Metode bisection dalam bidang matematika merupakan suatu metode pencarian akar yang berlaku untuk sembarang fungsi kontinu dengan ketentuan diperlukan dua nilai fungsi yang berbeda tanda [
@@ -57038,7 +58866,7 @@ G = 6.674 \ 30(15) \times 10^{-11} \ {\rm m^3 \cdot kg^{-1} \cdot s^{-2}}.
 \end{equation}&lt;/p&gt;
 &lt;h2 id="note"&gt;note&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&amp;ldquo;Newtonian constant of gravitation G&amp;rdquo;, Fundamental Physical Constants, The NIST Reference on Constants, Units, and Ucertainty, National Institute of Standards and Technology, U.S. Department of Commerce, url 
+&lt;li&gt;&lt;a name="r01"&gt;&lt;/a&gt;&amp;ldquo;Newtonian constant of gravitation G&amp;rdquo;, Fundamental Physical Constants, The NIST Reference on Constants, Units, and Ucertainty, National Institute of Standards and Technology, U.S. Department of Commerce, url 
 &lt;a
 
 	
@@ -57276,7 +59104,7 @@ G = 6.674 \ 30(15) \times 10^{-11} \ {\rm m^3 \cdot kg^{-1} \cdot s^{-2}}.
 &lt;/a&gt;
 ].&lt;/p&gt;
 &lt;h2 id="presentation"&gt;presentation&lt;/h2&gt;
-&lt;p&gt;Presentasi sidang tesis 2 dilakukan secara luring (&lt;!-- raw HTML omitted --&gt;dan mungkin daring, tepatnya bauran&lt;!-- raw HTML omitted --&gt;) di Prodi Fisika, FMPA, ITB, pada Kamis, 23 Desember 2021, 0900 bertempat di Ruang Staf Baru (&lt;!-- raw HTML omitted --&gt;tentatif&lt;!-- raw HTML omitted --&gt;), dengan pembimbing pertama Prof. Dr. Eng. Suprijadi, pembimbing kedua Dr.rer.nat. Sparisoma Viridi, pengujip pertama Dr.rer.nat. Freddy Haryanto, dan penguji kedua Acep Purqon, Ph.D.&lt;/p&gt;</description></item><item><title>eis arduino</title><link>https://butiran-x.github.io/posts/0o/bugx-src/1/20/2021-12-19-eis-arduino/</link><pubDate>Mon, 20 Dec 2021 21:24:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/1/20/2021-12-19-eis-arduino/</guid><description>&lt;p&gt;Sprektroskopi impedans listrik atau electrical impedance spectroscopy (EIS) dapat dibangun purwarupanya dengan komponen elektronik yang tersedia di pasaran, yang perlu dilengkapi dengan mikrokontroler Ardunio agar hasil pengukuran dapat langsung ditampilkan di komputer [
+&lt;p&gt;Presentasi sidang tesis 2 dilakukan secara luring (&lt;s&gt;dan mungkin daring, tepatnya bauran&lt;/s&gt;) di Prodi Fisika, FMPA, ITB, pada Kamis, 23 Desember 2021, 0900 bertempat di Ruang Staf Baru (&lt;s&gt;tentatif&lt;/s&gt;), dengan pembimbing pertama Prof. Dr. Eng. Suprijadi, pembimbing kedua Dr.rer.nat. Sparisoma Viridi, pengujip pertama Dr.rer.nat. Freddy Haryanto, dan penguji kedua Acep Purqon, Ph.D.&lt;/p&gt;</description></item><item><title>eis arduino</title><link>https://butiran-x.github.io/posts/0o/bugx-src/1/20/2021-12-19-eis-arduino/</link><pubDate>Mon, 20 Dec 2021 21:24:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/1/20/2021-12-19-eis-arduino/</guid><description>&lt;p&gt;Sprektroskopi impedans listrik atau electrical impedance spectroscopy (EIS) dapat dibangun purwarupanya dengan komponen elektronik yang tersedia di pasaran, yang perlu dilengkapi dengan mikrokontroler Ardunio agar hasil pengukuran dapat langsung ditampilkan di komputer [
 &lt;a
 
 	
@@ -59131,7 +60959,7 @@ G = 6.674 \ 30(15) \times 10^{-11} \ {\rm m^3 \cdot kg^{-1} \cdot s^{-2}}.
  
 &lt;/a&gt;
 
-&lt;!-- raw HTML omitted --&gt;&lt;code&gt;2021-1-B&lt;/code&gt;
+&lt;br&gt;&lt;code&gt;2021-1-B&lt;/code&gt;
 
 &lt;a
 
@@ -60632,8 +62460,16 @@ wasi&amp;rsquo;a kursiyuhus-samawati wal-ard &lt;br&gt;
 wa la ya&amp;rsquo;uduhu hifzuhuma &lt;br&gt;
 wa huwal-&amp;lsquo;aliyuul-&amp;lsquo;azim
 {% endcomment %}&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;style&gt;
+.ayat{font-family:litelpmq;font-size:1.8em;line-height:2.4;font-weight:400;font-style:normal}
+.ayat{margin-top:.5em;text-align:right;direction:rtl}
+.ayat{display:block}
+
+.bacaan{font-family:georgia,serif;font-weight:400;padding:1em 0}
+.bacaan{display:block}
+
+.arti{display:block}
+&lt;/style&gt;
 &lt;p&gt;&lt;code&gt;002&lt;/code&gt;:&lt;code&gt;255&lt;/code&gt; url 
 &lt;a
 
@@ -64971,7 +66807,7 @@ v = \frac{dx}{dt},
 &lt;/a&gt;
  berikut.&lt;/p&gt;
 &lt;p&gt;![]({{ site.baseurl }}/assets/img/0/03/0034-a.png) &lt;br&gt;
-Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Benda bergerak mulai dari waktu $t_1$ sampai $t_{10}$, di mana gerak antar titik mengikuti lintasan berupa garis lulus, dengan grid $1 \ {\rm m} \times 1 \ {\rm m}$.&lt;/p&gt;</description></item><item><title>displacement 1d</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/03/2021-10-06-displacement-1d/</link><pubDate>Thu, 07 Oct 2021 21:22:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/03/2021-10-06-displacement-1d/</guid><description>&lt;p&gt;Perpindahan suatu benda didefinisikan sebagai suatu vektor yang mengarah mulai dari suatu posisi awal (inisial) ke suatu posisi akhir (final) [
+Gambar &lt;a name="fig1"&gt;1&lt;/a&gt;. Benda bergerak mulai dari waktu $t_1$ sampai $t_{10}$, di mana gerak antar titik mengikuti lintasan berupa garis lulus, dengan grid $1 \ {\rm m} \times 1 \ {\rm m}$.&lt;/p&gt;</description></item><item><title>displacement 1d</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/03/2021-10-06-displacement-1d/</link><pubDate>Thu, 07 Oct 2021 21:22:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/03/2021-10-06-displacement-1d/</guid><description>&lt;p&gt;Perpindahan suatu benda didefinisikan sebagai suatu vektor yang mengarah mulai dari suatu posisi awal (inisial) ke suatu posisi akhir (final) [
 &lt;a
 
 	
@@ -65099,10 +66935,23 @@ Gambar &lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;. Benda be
 &lt;p&gt;\begin{equation}\label{eqn-01}
 \Delta \vec{r} = \vec{r}_f - \vec{r}_i
 \end{equation}&lt;/p&gt;</description></item><item><title>progress</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/00/2021-10-04-progress/</link><pubDate>Mon, 04 Oct 2021 20:30:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/00/2021-10-04-progress/</guid><description>&lt;p&gt;View progress of bug&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;!-- Html Elements for Search --&gt;
+&lt;div id="search-container"&gt;
+&lt;input type="text" id="search-input" autocomplete="on" placeholder="search..." /&gt;
+&lt;ul id="results-container"&gt;&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Script pointing to search-script.js --&gt;
+&lt;script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;!-- Configuration --&gt;
+&lt;script&gt;
+SimpleJekyllSearch({
+ searchInput: document.getElementById('search-input'),
+ resultsContainer: document.getElementById('results-container'),
+ searchResultTemplate: '&lt;tt&gt;&lt;a href="{url}" tabindex="1"&gt;{pid}&lt;/a&gt;&lt;/tt&gt; ',
+ noResultsText: 'No results found!',
+ json: '{{ site.baseurl }}/search.json',
+})
+&lt;/script&gt;
 &lt;p&gt;{% comment %}
 Progress of all detected posts.&lt;/p&gt;
 &lt;table&gt;
@@ -66526,8 +68375,8 @@ Progress of all detected posts.&lt;/p&gt;
  
 &lt;/a&gt;
 . And find 🐞 in HTML symbol. Keep using • symbol, since can not find any better one. It is microbe 🦠, but a cool symbol.&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;code&gt;20 Oct 2021&lt;/code&gt; Someone Geburtstag x0C and inspires new style of the symbol for frame of reference. It is more modern compared to the old fashion way. But it support only the type of $\bigodot$ since it is difficult for the $\bigotimes$ type.&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;code&gt;02 Oct 2021&lt;/code&gt; Try to create the first animated bug with 
+&lt;li&gt;&lt;img src="{{ site.baseurl }}/assets/img/0/00/0000-b-frame-of-reference-box.png" style="float:left; padding-right:10px;" /&gt;&lt;code&gt;20 Oct 2021&lt;/code&gt; Someone Geburtstag x0C and inspires new style of the symbol for frame of reference. It is more modern compared to the old fashion way. But it support only the type of $\bigodot$ since it is difficult for the $\bigotimes$ type.&lt;/li&gt;
+&lt;li&gt;&lt;img src="{{ site.baseurl }}/assets/img/0/00/0000-a-bug.gif" style="float:right;" /&gt;&lt;code&gt;02 Oct 2021&lt;/code&gt; Try to create the first animated bug with 
 &lt;a
 
 	
@@ -66974,7 +68823,7 @@ Progress of all detected posts.&lt;/p&gt;
 	&lt;/span&gt;
  
 &lt;/a&gt;
-]. Beberapa proyeksi ortografik 3-d ke 2-d adalah sebagai berikut ini,&lt;/p&gt;</description></item><item><title>dot cross direction</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/01/2021-05-22-dot-cross-direction/</link><pubDate>Sun, 23 May 2021 00:59:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/01/2021-05-22-dot-cross-direction/</guid><description>&lt;p&gt;Sebuah vektor, yang diilustrasikan dengan anak panah &lt;!-- raw HTML omitted --&gt;➳&lt;!-- raw HTML omitted --&gt;, digambarkan dengan dot $\bigodot$ saat keluar dari suatu bidang 2-d dan cross $\bigotimes$ saat masuk ke bidang tersebut [
+]. Beberapa proyeksi ortografik 3-d ke 2-d adalah sebagai berikut ini,&lt;/p&gt;</description></item><item><title>dot cross direction</title><link>https://butiran-x.github.io/posts/0o/bugx-src/0/01/2021-05-22-dot-cross-direction/</link><pubDate>Sun, 23 May 2021 00:59:00 +0700</pubDate><guid>https://butiran-x.github.io/posts/0o/bugx-src/0/01/2021-05-22-dot-cross-direction/</guid><description>&lt;p&gt;Sebuah vektor, yang diilustrasikan dengan anak panah &lt;c style="font-size: 2em; top: 0.2em; position: relative; border: 0px solid black; line-height: 0;"&gt;➳&lt;/c&gt;, digambarkan dengan dot $\bigodot$ saat keluar dari suatu bidang 2-d dan cross $\bigotimes$ saat masuk ke bidang tersebut [
 &lt;a
 
 	
