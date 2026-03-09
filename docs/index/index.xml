@@ -1947,7 +1947,7 @@ fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16
 &lt;/svg&gt;
  &lt;/div&gt;
  
- &lt;div class="count"&gt;204&lt;/div&gt;
+ &lt;div class="count"&gt;205&lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="title-wrapper"&gt;
  &lt;div class="title"&gt;notes&lt;/div&gt;
@@ -6387,6 +6387,89 @@ fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16
 
 
 
+&lt;a class="category-card" href="https://butiran-x.github.io/26c40/"&gt;
+ &lt;div class="top-row"&gt;
+ 
+ 
+ 
+ &lt;div class="logo-container"&gt;
+ &lt;?xml version="1.0" ?&gt;&lt;!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools --&gt;
+&lt;svg width="800px" height="800px" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg"&gt;&lt;title/&gt;&lt;path d="M53.25,6.46a11.48,11.48,0,0,1-10.5,0C32.22,1.06,9.5-6.29,9.5,30.72,9.5,55.55,23,94,32.6,94S38.38,55.67,48,55.67,53.77,94,63.4,94,86.5,55.55,86.5,30.72C86.5-6.29,63.78,1.06,53.25,6.46Z" style="fill:#eaeaea"/&gt;&lt;path d="M72.5,2.35c3.6,4.25,6,11.58,6,23.62,0,22.39-10.95,55.83-20.16,62.2C59.48,91.67,61,94,63.4,94,73,94,86.5,55.55,86.5,30.72,86.5,11.05,80.09,3.91,72.5,2.35Z" style="fill:#bacece"/&gt;&lt;path d="M53.25,6.46a11.48,11.48,0,0,1-10.5,0C32.22,1.06,9.5-6.29,9.5,30.72,9.5,55.55,23,94,32.6,94S38.38,55.67,48,55.67,53.77,94,63.4,94,86.5,55.55,86.5,30.72C86.5-6.29,63.78,1.06,53.25,6.46Z" style="fill:none;stroke:#281a3b;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px"/&gt;&lt;/svg&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="count"&gt;3&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="title-wrapper"&gt;
+ &lt;div class="title"&gt;guided tissue gen dental-res&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+
+
+&lt;style&gt;
+.category-card {
+ display: inline-flex;
+ flex-direction: column;
+ justify-content: space-between; 
+ width: 80px;
+ height: 80px;
+ margin: 0.3em;
+ border: 1px solid var(--muted-border);
+ border-radius: 8px;
+ padding: 4px;
+ background: var(--box-bg);
+ box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ box-sizing: border-box;
+ text-decoration: none;
+ color: var(--fg);
+}
+.category-card:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+}
+.category-card .top-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+}
+.category-card .logo-container {
+ width: 20px;
+ height: 20px;
+ display:flex;
+ align-items:center;
+ justify-content:center;
+}
+.category-card img, .category-card svg {
+ max-width: 100%;
+ max-height: 100%;
+}
+.category-card .count {
+ font-size: 0.75em;
+ color:#888;
+}
+.category-card .title-wrapper {
+ flex: 1;
+ display: flex;
+ align-items: center; 
+ justify-content: center;
+ text-align: center;
+ padding: 0 6px;
+}
+.category-card .title {
+ font-weight: 600;
+ font-size: 0.85em;
+ line-height: 1.1;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 3; 
+ overflow: hidden;
+ word-break: break-word;
+}
+&lt;/style&gt;
+
+
+
 &lt;a class="category-card" href="https://butiran-x.github.io/26c04/"&gt;
  &lt;div class="top-row"&gt;
  
@@ -6409,7 +6492,7 @@ fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16
 &lt;/svg&gt;
  &lt;/div&gt;
  
- &lt;div class="count"&gt;∞&lt;/div&gt;
+ &lt;div class="count"&gt;3&lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="title-wrapper"&gt;
  &lt;div class="title"&gt;fiber-not-bed gra-nul-filter&lt;/div&gt;
