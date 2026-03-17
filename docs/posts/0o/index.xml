@@ -6606,7 +6606,35 @@ Root is located between
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
-
+{{&lt; comment &gt;}}
++ Sahin S, Sumnu S G (2006) "Thermal Properties of Foods", in Physical Properties of Foods, Springer, New York, ch 3
++ Optimasi Proses Produksi Konsentrat Protein Kacang Merah dan Kacang Hijau dengan Konsep Pengeringan Vakum dan Spray Drying.
++ Bertujuan mengurangi biaya operasional dan meningkatkan efisiensi produksi. What does it mean?
+ - Nilai konduktivitas termal yang diperoleh belum menggambarkan bagaimana mengurangi biaya operasional dan meningkatkan efisiensi produksi.
++ Dari model SPK ini apakah berarti untuk jenis bahan berbeda, e.g. KH dan KM, memiliki susunan seri-paralel yang berbeda? Apa makna fisisnya?
++ (belum konsentrat: air, protein, karbohidrat, lemak, abu) Adakah insight yang diperoleh pada bahan seperti apa diperoleh model susunan seperti apa?
+ - sABCEpD
+ - sBCDEpA
+ - protein untuk bencana, kacang merah / hijau yang paling mudah dan mudah untuk saat bencana.
+ - untuk teknik pangan, terakhir itu abu, sesuai urutan yang umumnya diidentifikasi.
+ - kacang merah utuh dan telah dibuka perubahan proteinnya tidak signifikan berubahnya.
+ - pers (Choi &amp; Okos 1986)
++ Setelah menjadi konsentrat tinggal tiga bahan (air, protein, karbohidrat) diperoleh susunan yang berbeda:
+ - pABC
+ - sACpB
++ Apa dasar pemilihan mana yang merupakan A-B-C-D-E dari air, protein, karbohidrat, lemak, an abu? Apa dasarnya.
+ - air(A), protein (B), karbohidrat (C), lemak (D), abu (E).
+ - Air (A), protein (B) dan karbohidrat (C).
++ Dari persamaan-persamaan empirik yang diperoleh, bagaimana rentang batasannya?
++ BN:
+ - Production Process Optimation -&gt; Drying Process Optimation.
+ - Apa dasar VE dan batasannya, bagaimana dengan measurement.
++ MJ:
+ - Format, bab 2 dan bab 3 hilang.
+{{&lt; /comment &gt;}}
+--&gt;
+&lt;!-- 16-mar-2026 0915
+WARN The "comment" shortcode was deprecated in v0.143.0 and will be removed in a future release. Please use HTML comments instead. See "U:\butiran-src\content\posts\0o\plaintext\users\2023-1\sdqr2.md:65:1"
 --&gt;</description></item><item><title>jn8s6</title><link>https://butiran-x.github.io/000a/</link><pubDate>Mon, 18 Dec 2023 15:29:00 +0800</pubDate><guid>https://butiran-x.github.io/000a/</guid><description>&lt;h2 id="2023-1"&gt;2023-1&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;21-dec-2023&lt;/code&gt; 
