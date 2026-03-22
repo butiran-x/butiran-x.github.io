@@ -7690,6 +7690,94 @@ fill="#f7df1e"/&gt;&lt;path d="M324 370c10 17 24 29 47 29c20 0 33-10 33 -24c0-16
  &lt;div class="title-wrapper"&gt;
  &lt;div class="title"&gt;misc&lt;/div&gt;
  &lt;/div&gt;
+&lt;/a&gt;
+
+
+&lt;style&gt;
+.category-card {
+ display: inline-flex;
+ flex-direction: column;
+ justify-content: space-between; 
+ width: 80px;
+ height: 80px;
+ margin: 0.3em;
+ border: 1px solid var(--muted-border);
+ border-radius: 8px;
+ padding: 4px;
+ background: var(--box-bg);
+ box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ box-sizing: border-box;
+ text-decoration: none;
+ color: var(--fg);
+}
+.category-card:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+}
+.category-card .top-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+}
+.category-card .logo-container {
+ width: 20px;
+ height: 20px;
+ display:flex;
+ align-items:center;
+ justify-content:center;
+}
+.category-card img, .category-card svg {
+ max-width: 100%;
+ max-height: 100%;
+}
+.category-card .count {
+ font-size: 0.75em;
+ color:#888;
+}
+.category-card .title-wrapper {
+ flex: 1;
+ display: flex;
+ align-items: center; 
+ justify-content: center;
+ text-align: center;
+ padding: 0 6px;
+}
+.category-card .title {
+ font-weight: 600;
+ font-size: 0.85em;
+ line-height: 1.1;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 3; 
+ overflow: hidden;
+ word-break: break-word;
+}
+&lt;/style&gt;
+
+
+
+&lt;a class="category-card" href="https://butiran-x.github.io/26c88/"&gt;
+ &lt;div class="top-row"&gt;
+ 
+ 
+ 
+ &lt;div class="logo-container"&gt;
+ &lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools --&gt;
+&lt;svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" width="800px" height="800px" fill="#000000" stroke="#000000" stroke-width="0.00512"&gt;
+&lt;g id="SVGRepo_bgCarrier" stroke-width="0"/&gt;
+&lt;g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/&gt;
+&lt;g id="SVGRepo_iconCarrier"&gt; &lt;rect x="256" y="303.505" style="fill:#D9DADB;" width="248.082" height="200.577"/&gt; &lt;rect x="7.918" y="303.505" style="fill:#00ABD5;" width="248.082" height="200.577"/&gt; &lt;polygon style="fill:#FFD311;" points="504.082,155.711 504.082,303.505 256,303.505 7.918,303.505 7.918,155.711 "/&gt; &lt;rect x="7.918" y="7.918" style="fill:#D9DADB;" width="496.165" height="147.794"/&gt; &lt;rect x="7.918" y="303.505" style="fill:#00A0D3;" width="131.959" height="200.577"/&gt; &lt;rect x="7.918" y="155.711" style="fill:#FDB51E;" width="248.082" height="147.794"/&gt; &lt;g&gt; &lt;rect x="7.918" y="7.918" style="fill:#C0C5C6;" width="248.082" height="147.794"/&gt; &lt;rect x="256.148" y="303.505" style="fill:#C0C5C6;" width="137.089" height="200.577"/&gt; &lt;/g&gt; &lt;path d="M0,0v512h512V0H0z M496.165,15.835v131.959H15.835V15.835H496.165z M15.835,295.588V163.629h480.33v131.959H15.835z M15.835,311.423h232.247v184.742H15.835V311.423z M263.918,496.165V311.423h232.247v184.742H263.918z"/&gt; &lt;g&gt; &lt;polygon style="fill:#FFFFFF;" points="58.062,377.402 42.227,377.402 42.227,337.814 81.814,337.814 81.814,353.65 58.062,353.65 "/&gt; &lt;polygon style="fill:#FFFFFF;" points="58.062,229.608 42.227,229.608 42.227,190.021 81.814,190.021 81.814,205.856 58.062,205.856 "/&gt; &lt;polygon style="fill:#FFFFFF;" points="58.062,81.814 42.227,81.814 42.227,42.227 234.887,42.227 234.887,58.062 58.062,58.062 "/&gt; &lt;polygon style="fill:#FFFFFF;" points="306.144,377.402 290.309,377.402 290.309,337.814 329.897,337.814 329.897,353.65 306.144,353.65 "/&gt; &lt;/g&gt; &lt;/g&gt;
+&lt;/svg&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="count"&gt;1&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="title-wrapper"&gt;
+ &lt;div class="title"&gt;mockup&lt;/div&gt;
+ &lt;/div&gt;
 &lt;/a&gt;</description></item><item><title/><link>https://butiran-x.github.io/idx14/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://butiran-x.github.io/idx14/</guid><description>&lt;p&gt;&lt;strong&gt;!apps&lt;/strong&gt; - simply not apps&lt;/p&gt;
 &lt;style&gt;
 .category-card {
