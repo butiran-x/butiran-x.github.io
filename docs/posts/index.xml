@@ -1,8 +1,1282 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on butiran-✗</title><link>https://butiran-x.github.io/posts/</link><description>Recent content in Posts on butiran-✗</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2026 06:18:45 +0700</lastBuildDate><atom:link href="https://butiran-x.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>wed 25.03.26</title><link>https://butiran-x.github.io/26c94/</link><pubDate>Wed, 25 Mar 2026 06:18:45 +0700</pubDate><guid>https://butiran-x.github.io/26c94/</guid><description>&lt;!-- more --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on butiran-✗</title><link>https://butiran-x.github.io/posts/</link><description>Recent content in Posts on butiran-✗</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2026 20:23:25 +0700</lastBuildDate><atom:link href="https://butiran-x.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>text-viz grid-abm v0.1</title><link>https://butiran-x.github.io/26c99/</link><pubDate>Fri, 27 Mar 2026 20:23:25 +0700</pubDate><guid>https://butiran-x.github.io/26c99/</guid><description>&lt;!-- more --&gt;
+&lt;script src="https://butiran-x.github.io/js/labs/26c99.min.b051b23ea7fcf2b8dd6add3b40e5ac88abba6b5d770ac90608e7f7f9a7552fa1.js" integrity="sha256-sFGyPqf88rjdat07QOWsiKu6a113CskGCOf3&amp;#43;adVL6E=" defer&gt;&lt;/script&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;div id="container"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+ document.addEventListener("DOMContentLoaded", function () {
+ 
+_26c99.mount("container");
+
+ });
+&lt;/script&gt;
+
+&lt;h2 id="notes"&gt;notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;It uses mockup-t2 v0.1 from 
+&lt;a
+
+	
+	
+		href = "/26c98/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c98
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>mockup-t2 v0.1</title><link>https://butiran-x.github.io/26c98/</link><pubDate>Fri, 27 Mar 2026 10:53:01 +0700</pubDate><guid>https://butiran-x.github.io/26c98/</guid><description>&lt;!-- more --&gt;
+&lt;script src="https://butiran-x.github.io/js/labs/26c98.min.19dd6a8e12478c402b945a6c28c21afc3687dfbfed27d4b2faa8f38b03d55de4.js" integrity="sha256-Gd1qjhJHjEArlFpsKMIa/DaH37/tJ9Sy&amp;#43;qjziwPVXeQ=" defer&gt;&lt;/script&gt;
+
+
+
+&lt;div id="container"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+ document.addEventListener("DOMContentLoaded", function () {
+ 
+_26c98.mount("container");
+
+ });
+&lt;/script&gt;</description></item><item><title>fri 27.03.26</title><link>https://butiran-x.github.io/26c97/</link><pubDate>Fri, 27 Mar 2026 04:13:43 +0700</pubDate><guid>https://butiran-x.github.io/26c97/</guid><description>&lt;!-- more --&gt;
+
+
+
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
+
+&lt;div class="table-0"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;id&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;activity&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;status&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;link&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;beg&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;and&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;doc&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;01&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;beg daily note ( , ✓, ×) entry&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c97/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c97
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0413&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0415&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;02&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;git merge fix 34 e-rki-res&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0413&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;03&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;git merge fix butiran-x&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c95/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c95
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0418&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;04&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;cor today danote&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c97/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c97
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0419&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0420&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;05&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new motw today, link yesterday&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26a64/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26a64
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0257&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0258&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;06&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;pre sub-m nat-cal-lg gas etc&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0430&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x0435&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;07&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd sub-data&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25g78/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25g78
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0500&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;08&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav sle-n dish-w nat-cal-n etc&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0954&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;09&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd apps +1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		index
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1050&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1051&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;10&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd mockup +1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/idx13/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		idx13
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1051&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1052&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;11&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd card +1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c88/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c88
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1053&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1054&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;12&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new mockup-t2 v0.1 cpy 26c89&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c98/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c98
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1053&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;u1059&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;13&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;pre friday-p duschen nat-cal etc&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1100&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1130&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;14&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;con mockup-t2 v0.1 layout-ok&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1132&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1138&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;15&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav friday-p wdh etc&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1140&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1230&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;16&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;not ai-team-uni&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1234&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1237&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;17&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav lunch 1,3 at home&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1245&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1330&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;18&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav dormant etc&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26a64/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26a64
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;19&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav q-reading 22:18&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26a64/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26a64
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;20&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;wag aidi-ruu-rdpu mon-30&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1618&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;u1659&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;21&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav dinner 1,3 recycle food&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e2010&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;22&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd demo +1 in apps&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/idx13/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		idx13
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;2020&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e2020&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;23&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new apps in demo&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c73/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c73
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;2021&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e2025&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;24&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new rnd grid abm v0.1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c99/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c99
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;2023&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e2102&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;25&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;mov from demo to io apps&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c99/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c99
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;2102&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e2103&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;26&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;ren text-viz grid-abm v0.1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c99/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c99
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;2104&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e2105&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;27&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav dormant-n&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;2120&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x0200&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt; &lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;</description></item><item><title>satu-data-id aidi</title><link>https://butiran-x.github.io/26c96/</link><pubDate>Thu, 26 Mar 2026 16:30:25 +0700</pubDate><guid>https://butiran-x.github.io/26c96/</guid><description>&lt;!-- more --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;26-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26c96/blob/main/03/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26c96.03&lt;/code&gt;
+&lt;/a&gt;
+ There are 3 of 5 assigned.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;24-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26c96/blob/main/02/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26c96.02&lt;/code&gt;
+&lt;/a&gt;
+ Inv to rdpu ruu-1-data.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;26-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26c96/blob/main/01/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26c96.01&lt;/code&gt;
+&lt;/a&gt;
+ Note and repo creation.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>thu 26.03.26</title><link>https://butiran-x.github.io/26c95/</link><pubDate>Thu, 26 Mar 2026 05:08:07 +0700</pubDate><guid>https://butiran-x.github.io/26c95/</guid><description>&lt;!-- more --&gt;
+
+
+
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
+
+&lt;div class="table-0"&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;id&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;activity&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;status&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;link&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;beg&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;and&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;doc&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;01&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;beg daily note ( , ✓, ×) entry&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c95/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c95
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0508&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0509&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;02&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-lg e0518&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0509&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x0515&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;03&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd sub-data&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25a78/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25a78
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;04&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd meta-packages&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25f33/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25f33
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0519&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;u0520&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;05&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;con 33 prog rep slide late d+1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0521&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0530&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;06&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;ren 33 to 34&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0531&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0532&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;07&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;ren 32 to 33&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0532&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0533&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;08&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 31 res-contract and signing&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0537&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0540&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;09&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;con 34 prog rep slide late d+1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0542&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;u0553&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;10&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;pre work and bfast outside&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0554&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x0615&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;11&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav bfast vandel sulanjaya 1,3&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;065m&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e073m&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;12&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arv pau fi f10&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0740&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;13&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-lg&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0749&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;14&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;con 34 prog rep slide late d+1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0828&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;15&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;com sk-izay&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1004&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1102&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;16&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 35 prog rep slide late d+1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1111&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1120&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;17&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;fil hris presence&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0759&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;o0804&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;18&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-lg&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1124&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1140&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;19&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd 21 sevi-nurafni&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25c61/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25c61
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1456&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1533&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;20&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 22 sevi-nurafni today&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25c61/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25c61
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1538&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1542&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;21&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav ashr wdh nat-cal-lg&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1602&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;22&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-sm pee&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1626&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;23&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new satu-data-id aidi&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c96/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c96
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1630&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1634&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;24&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 02 inv rdpu-1-data dpr-ri&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c96/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c96
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1636&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1641&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;25&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-sm pee&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1645&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;26&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 03 aidi int-discuss delegate&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c96/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c96
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1646&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1659&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;27&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd 03 aidi int-discuss delegate&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c96/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c96
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1700&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1703&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;28&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-lg gas e1710&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1704&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1715&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;29&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;pre home vario 1,3&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1720&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1725&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt; &lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;</description></item><item><title>wed 25.03.26</title><link>https://butiran-x.github.io/26c94/</link><pubDate>Wed, 25 Mar 2026 06:18:45 +0700</pubDate><guid>https://butiran-x.github.io/26c94/</guid><description>&lt;!-- more --&gt;
+
+
+
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -191,6 +1465,573 @@
  &lt;td style="text-align: center"&gt;-&lt;/td&gt;
  &lt;td style="text-align: center"&gt;-&lt;/td&gt;
  &lt;td style="text-align: center"&gt;u0637&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;12&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd commute-data&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l06/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l06
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1007&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;13&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav time discussion kb-fh&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0845&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;14&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;fil hris presence&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0708&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e0850&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;15&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;chk fi5005-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b17/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b17
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1009&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1011&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;16&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 05 nt8098-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1014&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1021&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;17&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;ren 05 to 06 (missing undocu 05)&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1025&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;18&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 05 nt8098-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1025&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1031&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;19&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 07 nt8098-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1031&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1037&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;20&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 08 nt8098-01 2025-2 today&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1037&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1041&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;21&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;not 05-08 no info task issue yet&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1042&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;u1042&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;×&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;22&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;pre to labtek xv to onkel&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1042&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1045&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;23&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-lg gas nach lunch vs&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1347&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;24&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 05 nt6094-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b18/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b18
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1446&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1520&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;25&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 06 nt6094-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b18/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b18
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1520&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1525&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;26&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 07 nt6094-01 2025-2&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b18/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b18
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1525&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1533&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;27&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 08 nt6094-01 2025-2 today&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b18/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b18
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1537&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1541&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;28&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;brk nat-cal-lg gas wdh ash etc&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1542&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1600&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;29&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd 05-08 details&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b18/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b18
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1552&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1556&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;30&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd 05-08 details&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26b19/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26b19
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1557&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1600&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;31&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;upd 32 progress info&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1604&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1605&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;32&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 33 progress rep slide (null)&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/25l59/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		25l59
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1608&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1612&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;33&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;hav nat-cal-lg gas&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1613&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1630&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;34&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;arc 04 stock-procur e-rki specs&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c41/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c41
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1625&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1647&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;35&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;new 05 stock-procur e-rki reply&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;
+&lt;a
+
+	
+	
+		href = "/26c41/"
+
+		
+
+	
+
+	&gt;
+	
+	
+	&lt;span&gt;
+		26c41
+	&lt;/span&gt; 
+ 
+&lt;/a&gt;
+&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1629&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;e1641&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;✓&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;36&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;pre home wait-3 pau-2-fi&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;1642&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;x1650&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
@@ -1425,7 +3266,7 @@
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -5762,7 +7603,7 @@
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -6363,6 +8204,97 @@ _26c89.mount("container");
 }
 &lt;/style&gt;
 
+&lt;a class="post-card" href="https://butiran-x.github.io/26c98/"&gt;
+ &lt;div class="top-row"&gt;
+ &lt;div class="id"&gt;02&lt;/div&gt;
+ &lt;div class="url"&gt;26c98&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="title-wrapper"&gt;
+ &lt;div class="title"&gt;mockup-t2 v0.1&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="bottom-row"&gt;
+ &lt;div class="beg"&gt;27&lt;/div&gt;
+ &lt;div class="end"&gt;27&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+
+
+&lt;style&gt;
+.post-card {
+ display: inline-flex;
+ flex-direction: column;
+ justify-content: space-between; 
+ width: 80px;
+ height: 120px;
+ margin: 0.3em;
+ border: 1px solid var(--muted-border);
+ border-radius: 8px;
+ padding: 4px;
+ background: var(--box-bg);
+ box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ box-sizing: border-box;
+ text-decoration: none;
+ color: var(--fg);
+}
+.post-card:hover {
+ transform: translateY(-2px);
+ box-shadow: 3px 3px 8px color-mix(
+ in srgb,
+ var(--fg) 20%,
+ transparent
+ );
+}
+.post-card .top-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+ padding: 0 2px;
+}
+.post-card .bottom-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+ padding: 0 2px;
+}
+.post-card .id {
+ font-size: 0.75em;
+ color:#fc4;
+}
+.post-card .url {
+ font-size: 0.75em;
+ color:#888;
+}
+.post-card .beg {
+ font-size: 0.75em;
+ color:#c44;
+}
+.post-card .end {
+ font-size: 0.75em;
+ color:#4a4;
+}
+.post-card .title-wrapper {
+ flex: 1;
+ display: flex;
+ align-items: center; 
+ justify-content: center;
+ text-align: center;
+ padding: 0 6px;
+}
+.post-card .title {
+ font-weight: 600;
+ font-size: 0.85em;
+ line-height: 1.1;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 5; 
+ overflow: hidden;
+ word-break: break-word;
+}
+&lt;/style&gt;
+
 &lt;a class="post-card" href="https://butiran-x.github.io/26c89/"&gt;
  &lt;div class="top-row"&gt;
  &lt;div class="id"&gt;01&lt;/div&gt;
@@ -6379,7 +8311,7 @@ _26c89.mount("container");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -6751,7 +8683,7 @@ _26c84.mount("container");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -8905,7 +10837,7 @@ _26c72.mount("container");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -9977,6 +11909,97 @@ _26c72.mount("container");
 }
 &lt;/style&gt;
 
+&lt;a class="post-card" href="https://butiran-x.github.io/26c99/"&gt;
+ &lt;div class="top-row"&gt;
+ &lt;div class="id"&gt;03&lt;/div&gt;
+ &lt;div class="url"&gt;26c99&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="title-wrapper"&gt;
+ &lt;div class="title"&gt;text-viz grid-abm v0.1&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="bottom-row"&gt;
+ &lt;div class="beg"&gt;21&lt;/div&gt;
+ &lt;div class="end"&gt;21&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+
+
+&lt;style&gt;
+.post-card {
+ display: inline-flex;
+ flex-direction: column;
+ justify-content: space-between; 
+ width: 80px;
+ height: 120px;
+ margin: 0.3em;
+ border: 1px solid var(--muted-border);
+ border-radius: 8px;
+ padding: 4px;
+ background: var(--box-bg);
+ box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ box-sizing: border-box;
+ text-decoration: none;
+ color: var(--fg);
+}
+.post-card:hover {
+ transform: translateY(-2px);
+ box-shadow: 3px 3px 8px color-mix(
+ in srgb,
+ var(--fg) 20%,
+ transparent
+ );
+}
+.post-card .top-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+ padding: 0 2px;
+}
+.post-card .bottom-row {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-shrink: 0;
+ padding: 0 2px;
+}
+.post-card .id {
+ font-size: 0.75em;
+ color:#fc4;
+}
+.post-card .url {
+ font-size: 0.75em;
+ color:#888;
+}
+.post-card .beg {
+ font-size: 0.75em;
+ color:#c44;
+}
+.post-card .end {
+ font-size: 0.75em;
+ color:#4a4;
+}
+.post-card .title-wrapper {
+ flex: 1;
+ display: flex;
+ align-items: center; 
+ justify-content: center;
+ text-align: center;
+ padding: 0 6px;
+}
+.post-card .title {
+ font-weight: 600;
+ font-size: 0.85em;
+ line-height: 1.1;
+ display: -webkit-box;
+ -webkit-box-orient: vertical;
+ -webkit-line-clamp: 5; 
+ overflow: hidden;
+ word-break: break-word;
+}
+&lt;/style&gt;
+
 &lt;a class="post-card" href="https://butiran-x.github.io/26c72/"&gt;
  &lt;div class="top-row"&gt;
  &lt;div class="id"&gt;02&lt;/div&gt;
@@ -10084,7 +12107,7 @@ _26c72.mount("container");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -10895,7 +12918,7 @@ _26c68.mount("container");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -11521,7 +13544,7 @@ cnt.append(ioDiv);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -11931,7 +13954,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -12164,7 +14187,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -13563,7 +15586,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -13784,7 +15807,7 @@ Biasanya sakit lengan atas saat kedua tangan dijadikan bantalan untuk tidur, kak
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -14270,7 +16293,7 @@ Biasanya sakit lengan atas saat kedua tangan dijadikan bantalan untuk tidur, kak
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -15441,7 +17464,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -16534,7 +18557,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -18980,7 +21003,7 @@ and misc info
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -19786,6 +21809,24 @@ README.md" target="_blank" rel="noopener"&gt;
  Note initialization, then repo (+3).&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>equity-rki stock-procur</title><link>https://butiran-x.github.io/26c41/</link><pubDate>Mon, 09 Mar 2026 13:58:03 +0700</pubDate><guid>https://butiran-x.github.io/26c41/</guid><description>&lt;!-- more --&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;code&gt;25-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26c41/blob/main/05/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26c41.05&lt;/code&gt;
+&lt;/a&gt;
+ Ied greeting and feed-back specs.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;17-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26c41/blob/main/04/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26c41.04&lt;/code&gt;
+&lt;/a&gt;
+ Budget info and proposed specs.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;25-jan-2026&lt;/code&gt; 
 
 
@@ -21498,7 +23539,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -24859,7 +26900,7 @@ closing
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -27833,7 +29874,7 @@ url
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -29149,7 +31190,7 @@ E1["E1 = 3 V"]
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -30414,7 +32455,7 @@ README.md" target="_blank" rel="noopener"&gt;
 &lt;p&gt;
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -31607,7 +33648,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -33738,7 +35779,7 @@ rpBtn.addEventListener("click", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -53636,7 +55677,7 @@ z"/&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -56238,7 +58279,7 @@ svg g path {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -62008,7 +64049,7 @@ svg g path {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -62373,7 +64414,7 @@ svg g path {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -63950,7 +65991,7 @@ svg g path {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -65639,7 +67680,7 @@ $$&lt;/li&gt;
 &lt;p&gt;
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -66550,7 +68591,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -67978,7 +70019,7 @@ plBtn.addEventListener("click", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -68851,7 +70892,7 @@ plBtn.addEventListener("click", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -69601,7 +71642,7 @@ $$&lt;/p&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -70294,7 +72335,7 @@ flowchart LR
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -71060,7 +73101,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -71973,7 +74014,7 @@ ppBtn.addEventListener("click", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -73786,7 +75827,7 @@ consolex.log("😃");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -74989,7 +77030,7 @@ consolex.log("😃");
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -75642,7 +77683,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -76179,7 +78220,7 @@ Sudah cukup banyak salah-salah menulis, lupa kata-kata baik dalam bahasa Jerman 
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -76645,7 +78686,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -77333,7 +79374,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -78452,7 +80493,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -79536,6 +81577,133 @@ README.md" target="_blank" rel="noopener"&gt;
  (2024).&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>nt8098-01 2025-2</title><link>https://butiran-x.github.io/26b19/</link><pubDate>Tue, 10 Feb 2026 16:55:34 +0700</pubDate><guid>https://butiran-x.github.io/26b19/</guid><description>&lt;!-- more --&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;code&gt;25-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26b19/blob/main/08/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26b19.08&lt;/code&gt;
+&lt;/a&gt;
+ &lt;code&gt;07&lt;/code&gt; asynchronous online quiz; &lt;br&gt;
+&lt;code&gt;a-07&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/19"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/19 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;18-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26b19/blob/main/07/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26b19.07&lt;/code&gt;
+&lt;/a&gt;
+ &lt;code&gt;06&lt;/code&gt; journal indexing, pre-j, o-access, cit, qu; &lt;br&gt;
+&lt;code&gt;s-xx&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://zenodo.org/records/7082129"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://zenodo.org/records/7082129 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ ; &lt;br&gt;
+&lt;code&gt;a-06&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/17"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/17 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;06-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26b19/blob/main/06/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26b19.06&lt;/code&gt;
+&lt;/a&gt;
+ &lt;code&gt;05&lt;/code&gt; smart research workshop; &lt;br&gt;
+&lt;code&gt;a-05&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/14"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/14 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;04-mar-2026&lt;/code&gt; 
 
 
@@ -79544,7 +81712,57 @@ README.md" target="_blank" rel="noopener"&gt;
 README.md" target="_blank" rel="noopener"&gt;
  &lt;code&gt;26b19.05&lt;/code&gt;
 &lt;/a&gt;
- &lt;code&gt;04&lt;/code&gt; intro to journal introduction (undocu).&lt;/li&gt;
+ &lt;code&gt;04&lt;/code&gt; intro to journal introduction; &lt;br&gt;
+&lt;code&gt;s-xx&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://zenodo.org/records/7103265"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://zenodo.org/records/7103265 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ ; &lt;br&gt;
+&lt;code&gt;a-04&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/12"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/12 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;25-feb-2026&lt;/code&gt; 
 
 
@@ -79814,6 +82032,133 @@ README.md" target="_blank" rel="noopener"&gt;
  (2024).&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>nt6094-01 2025-2</title><link>https://butiran-x.github.io/26b18/</link><pubDate>Tue, 10 Feb 2026 16:51:14 +0700</pubDate><guid>https://butiran-x.github.io/26b18/</guid><description>&lt;!-- more --&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;code&gt;25-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26b18/blob/main/08/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26b18.08&lt;/code&gt;
+&lt;/a&gt;
+ &lt;code&gt;07&lt;/code&gt; asynchronous online mid quiz; &lt;br&gt;
+&lt;code&gt;a-07&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/20"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/20 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;18-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26b18/blob/main/07/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26b18.07&lt;/code&gt;
+&lt;/a&gt;
+ &lt;code&gt;06&lt;/code&gt; journal indexing, pred-j, oa, ci, qu; &lt;br&gt;
+&lt;code&gt;s-xx&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://zenodo.org/records/7082129"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://zenodo.org/records/7082129 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ ; &lt;br&gt;
+&lt;code&gt;a-06&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/16"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/16 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;06-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+26b18/blob/main/06/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;26b18.06&lt;/code&gt;
+&lt;/a&gt;
+ &lt;code&gt;05&lt;/code&gt; smart research workshop; &lt;br&gt;
+&lt;code&gt;a-05&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/13"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/13 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;04-mar-2026&lt;/code&gt; 
 
 
@@ -79822,7 +82167,57 @@ README.md" target="_blank" rel="noopener"&gt;
 README.md" target="_blank" rel="noopener"&gt;
  &lt;code&gt;26b18.05&lt;/code&gt;
 &lt;/a&gt;
- &lt;code&gt;04&lt;/code&gt; intro to journal introduction (undocu).&lt;/li&gt;
+ &lt;code&gt;04&lt;/code&gt; intro to journal introduction; &lt;br&gt;
+&lt;code&gt;s-xx&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://zenodo.org/records/7103265"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://zenodo.org/records/7103265 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+ ; &lt;br&gt;
+&lt;code&gt;a-04&lt;/code&gt; 
+&lt;a
+
+	
+	
+		href = "https://github.com/dudung/26b16/issues/11"
+
+		
+
+	
+
+	
+
+		target = "_blank"
+		rel = "nofollow noopener noreferrer"
+
+		&gt;
+	
+	
+	&lt;span&gt;
+		https://github.com/dudung/26b16/issues/11 &lt;i class="fa fa-external-link" style="font-size:14px"&gt;&lt;/i&gt;
+	&lt;/span&gt;
+ 
+&lt;/a&gt;
+.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;25-feb-2026&lt;/code&gt; 
 
 
@@ -80789,7 +83184,7 @@ Slide 04
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -81787,7 +84182,7 @@ Slide 04
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -82606,7 +85001,7 @@ Slide 04
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -83314,7 +85709,7 @@ Slide 04
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -83574,7 +85969,7 @@ Slide 04
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -84040,7 +86435,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -85019,7 +87414,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -85167,7 +87562,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -86186,7 +88581,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -92635,7 +95030,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -93672,7 +96067,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -94147,7 +96542,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -94554,7 +96949,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -95264,7 +97659,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -95628,7 +98023,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -95929,7 +98324,7 @@ cnt.append(v2, c2a, c2b, c2c, t2a, t2b, t2c, t2d);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -97078,7 +99473,7 @@ cnt.append(R1, C1a, C1b, C1c, T1a, T1b, T1c);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -98627,7 +101022,7 @@ cnt.append(R1, C1a, C1b, C1c, T1a, T1b, T1c);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -99597,7 +101992,7 @@ cnt.append(R1, C1a, C1b, C1c, T1a, T1b, T1c);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -99795,7 +102190,7 @@ cnt.append(R1, C1a, C1b, C1c, T1a, T1b, T1c);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -100220,7 +102615,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -101182,7 +103577,7 @@ cnt.append(can);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -102134,7 +104529,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -105128,7 +107523,7 @@ Hari ini adalah hari Minggu dan besok sudah kembali hari kerja. Libur pada hari 
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -105783,7 +108178,7 @@ Two days ago or Thursday the cleaning process in office room was performed. Ther
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -106034,7 +108429,7 @@ Two days ago or Thursday the cleaning process in office room was performed. Ther
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -106577,7 +108972,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -106776,7 +109171,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -107060,6 +109455,206 @@ README.md" target="_blank" rel="noopener"&gt;
 &lt;/ul&gt;</description></item><item><title>memo on the way</title><link>https://butiran-x.github.io/26a64/</link><pubDate>Tue, 13 Jan 2026 07:15:31 +0700</pubDate><guid>https://butiran-x.github.io/26a64/</guid><description>&lt;!-- more --&gt;
 &lt;p&gt;Available memos are as follows.&lt;/p&gt;
 &lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+&lt;div class="motw-card"&gt;
+&lt;a href="https://github.com/dudung/26a64/blob/main/2026-03-27.md"&gt;
+ &lt;div class="motw-card-content" style="border: 0.5px solidnone;"&gt;
+ &lt;div class="motw-day"&gt;FRI&lt;/div&gt;
+ &lt;div class="motw-date"&gt;27&lt;/div&gt;
+ &lt;div class="motw-monthyear"&gt;Mar 2026&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.motw-card, a {
+ display: inline-block;
+ text-decoration: none;
+ color: inherit;
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ margin-top: 2px;
+ margin-right: 2px;
+}
+
+.motw-card-content {
+ border-radius: 8px;
+ ;
+ box-shadow: 0 2px 4px var(--muted-border);
+ width: 40px;
+ height: 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ padding: 0.5rem;
+ background: none;
+}
+
+.motw-card:hover {
+ transform: translateY(-4px);
+ 
+ box-shadow: 0 6px 12px var(--muted-border);
+}
+
+.motw-day {
+ font-size: 0.6rem;
+ font-weight: bold;
+ text-transform: uppercase;
+ color: #555;
+}
+
+.motw-date {
+ font-size: 1.3rem;
+ font-weight: bold;
+ line-height: 1.2;
+}
+
+.motw-monthyear {
+ font-size: 0.55rem;
+ color: #777;
+}
+&lt;/style&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+&lt;div class="motw-card"&gt;
+&lt;a href="https://github.com/dudung/26a64/blob/main/2026-03-26.md"&gt;
+ &lt;div class="motw-card-content" style="border: 0.5px solidnone;"&gt;
+ &lt;div class="motw-day"&gt;THU&lt;/div&gt;
+ &lt;div class="motw-date"&gt;26&lt;/div&gt;
+ &lt;div class="motw-monthyear"&gt;Mar 2026&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.motw-card, a {
+ display: inline-block;
+ text-decoration: none;
+ color: inherit;
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ margin-top: 2px;
+ margin-right: 2px;
+}
+
+.motw-card-content {
+ border-radius: 8px;
+ ;
+ box-shadow: 0 2px 4px var(--muted-border);
+ width: 40px;
+ height: 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ padding: 0.5rem;
+ background: none;
+}
+
+.motw-card:hover {
+ transform: translateY(-4px);
+ 
+ box-shadow: 0 6px 12px var(--muted-border);
+}
+
+.motw-day {
+ font-size: 0.6rem;
+ font-weight: bold;
+ text-transform: uppercase;
+ color: #555;
+}
+
+.motw-date {
+ font-size: 1.3rem;
+ font-weight: bold;
+ line-height: 1.2;
+}
+
+.motw-monthyear {
+ font-size: 0.55rem;
+ color: #777;
+}
+&lt;/style&gt;
+
+
 
 
 
@@ -109804,7 +112399,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -110842,7 +113437,7 @@ cnt.append(btn5);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -113477,7 +116072,7 @@ cnt.append(btn);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -115138,7 +117733,7 @@ cnt.innerHTML = "Hello, World!";
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -116294,7 +118889,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -117174,7 +119769,7 @@ Umumnya terdapat keinginan, yang walau ditekan akan tetap ada di bawah sadar, un
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -118178,7 +120773,7 @@ Umumnya terdapat keinginan, yang walau ditekan akan tetap ada di bawah sadar, un
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -119560,7 +122155,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -120487,7 +123082,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -122139,7 +124734,7 @@ cnt4.append(inp);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -124284,7 +126879,7 @@ css	images	py
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -126058,7 +128653,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -127217,7 +129812,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -127601,7 +130196,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -128649,7 +131244,7 @@ Hari ini dimulai dengan pengukuran gravitasi, panggilan kecil alam, thjd, dan ca
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -129871,7 +132466,7 @@ Belum ada ide untuk menulis sebenarnya. Hanya membuat catatan untuk meneruskan k
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -130753,7 +133348,7 @@ Meneruskan kembali catatan sebelumnya pada
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -131244,7 +133839,7 @@ Dikarenakan judul yang sama, semacam captain-log ini, penomoran paragraf diterus
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -132009,7 +134604,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -132489,7 +135084,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -132966,6 +135561,42 @@ README.md" target="_blank" rel="noopener"&gt;
  Initial meetup in a trip from padang.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>equity rki-a res</title><link>https://butiran-x.github.io/25l59/</link><pubDate>Wed, 24 Dec 2025 05:16:53 +0700</pubDate><guid>https://butiran-x.github.io/25l59/</guid><description>&lt;!-- more --&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;code&gt;26-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+25l59/blob/main/35/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;25l59.35&lt;/code&gt;
+&lt;/a&gt;
+ Progress slide late submission.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;25-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+25l59/blob/main/34/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;25l59.34&lt;/code&gt;
+&lt;/a&gt;
+ Prog-rep slide pages.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;13-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+25l59/blob/main/33/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;25l59.33&lt;/code&gt;
+&lt;/a&gt;
+ Info progress report.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;11-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+25l59/blob/main/32/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;25l59.32&lt;/code&gt;
+&lt;/a&gt;
+ Research contract info and signing.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;04-mar-2026&lt;/code&gt; 
 
 
@@ -133300,7 +135931,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -134183,7 +136814,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -135002,7 +137633,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -136420,7 +139051,7 @@ jobs:
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -136991,7 +139622,7 @@ jobs:
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -137446,7 +140077,7 @@ for(id of ids) {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -138587,7 +141218,7 @@ for(id of ids) {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -139019,7 +141650,7 @@ for(id of ids) {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -139676,7 +142307,7 @@ for(id of ids) {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -140335,7 +142966,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -141039,7 +143670,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -141351,7 +143982,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -141579,7 +144210,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -142521,7 +145152,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -143048,7 +145679,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -143779,7 +146410,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -144091,7 +146722,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -144253,7 +146884,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -144388,7 +147019,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -144541,7 +147172,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -144640,7 +147271,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -145372,7 +148003,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -145385,6 +148016,18 @@ README.md" target="_blank" rel="noopener"&gt;
  &lt;/tr&gt;
  &lt;/thead&gt;
  &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;25&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0711&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;sport&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt; &lt;/td&gt;
+ &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;0737&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;work (revo)&lt;/td&gt;
+ &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td style="text-align: center"&gt;17&lt;/td&gt;
  &lt;td style="text-align: center"&gt;0703&lt;/td&gt;
@@ -145496,7 +148139,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -145622,7 +148265,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -145898,7 +148541,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -146084,7 +148727,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -146515,7 +149158,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -147311,7 +149954,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -147993,7 +150636,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -148600,7 +151243,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -149169,7 +151812,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -149663,7 +152306,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -150623,7 +153266,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -151859,7 +154502,7 @@ Plotly.newPlot('cnt', data, layout, config);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -153043,7 +155686,7 @@ console.log("canvas css:", ce.getBoundingClientRect().width, ce.getBoundingClien
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -153697,7 +156340,7 @@ console.log("canvas css:", ce.getBoundingClientRect().width, ce.getBoundingClien
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -154291,7 +156934,7 @@ console.log("canvas css:", ce.getBoundingClientRect().width, ce.getBoundingClien
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -154897,7 +157540,7 @@ console.log("canvas css:", ce.getBoundingClientRect().width, ce.getBoundingClien
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -155907,7 +158550,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -156942,7 +159585,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -158221,7 +160864,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -159070,7 +161713,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -159509,7 +162152,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -160059,7 +162702,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -160599,7 +163242,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -161457,7 +164100,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -161981,7 +164624,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -162395,7 +165038,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -163185,7 +165828,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -163783,7 +166426,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -164509,7 +167152,7 @@ inSel.focus();
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -165518,7 +168161,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -166649,7 +169292,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -167109,7 +169752,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -167646,7 +170289,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -168516,7 +171159,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -169492,7 +172135,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -170473,7 +173116,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -171300,7 +173943,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -173088,7 +175731,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -174064,7 +176707,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -174675,7 +177318,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -175526,7 +178169,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -176308,7 +178951,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -177022,7 +179665,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -178229,7 +180872,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -179405,7 +182048,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -179837,7 +182480,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -180169,7 +182812,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -180585,7 +183228,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -180860,7 +183503,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -181572,7 +184215,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -182411,7 +185054,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -183928,7 +186571,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -184840,7 +187483,7 @@ else:
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -185581,7 +188224,7 @@ git push origin deploy-now -f
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -185986,7 +188629,7 @@ git push origin deploy-now -f
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -186898,7 +189541,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -188317,7 +190960,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -188990,7 +191633,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -189578,7 +192221,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -190331,7 +192974,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -190855,7 +193498,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -191118,7 +193761,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -191491,7 +194134,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -192474,7 +195117,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -193148,7 +195791,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -193615,7 +196258,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -194117,7 +196760,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -194446,7 +197089,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -194939,7 +197582,7 @@ instances, private subnet: EC2 instance for the database). Both are in a single 
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -195155,7 +197798,7 @@ instances, private subnet: EC2 instance for the database). Both are in a single 
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -195475,7 +198118,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -196218,7 +198861,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -198709,7 +201352,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -199216,7 +201859,7 @@ First part of an URI, before the : character, is scheme, which indicates which p
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -200190,7 +202833,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -200593,7 +203236,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -201742,7 +204385,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -202991,7 +205634,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -203924,7 +206567,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -204784,7 +207427,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -205392,7 +208035,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -205646,7 +208289,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -206096,7 +208739,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -206751,7 +209394,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -207439,7 +210082,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -208259,7 +210902,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -208569,7 +211212,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -209364,7 +212007,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -210466,7 +213109,7 @@ flowchart
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -211983,7 +214626,7 @@ will update Eqns (4)-(10).&lt;/li&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -213772,7 +216415,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -214730,7 +217373,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -215791,7 +218434,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -217328,7 +219971,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -217920,7 +220563,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -218181,7 +220824,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -218571,7 +221214,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -218948,7 +221591,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -219662,7 +222305,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -220958,7 +223601,7 @@ README.md" target="_blank" rel="noopener"&gt;
 &lt;p&gt;
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -221031,7 +223674,7 @@ Total is 12.5 credit hours.&lt;/p&gt;</description></item><item><title>tue 26.08
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -221637,7 +224280,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -221928,7 +224571,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -222060,7 +224703,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -222258,7 +224901,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -222785,7 +225428,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -223714,8 +226357,198 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 &lt;div class="calendar-card"&gt;
-&lt;a href="https://butiran-x.github.io/26c94/"&gt;
+&lt;a href="https://butiran-x.github.io/26c97/"&gt;
  &lt;div class="calendar-card-content" style="border: 0.5px solid#fafd70;"&gt;
+ &lt;div class="calendar-day"&gt;FRI&lt;/div&gt;
+ &lt;div class="calendar-date"&gt;27&lt;/div&gt;
+ &lt;div class="calendar-monthyear"&gt;Mar 2026&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.calendar-card, a {
+ display: inline-block;
+ text-decoration: none;
+ color: inherit;
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ margin-top: 2px;
+ margin-right: 2px;
+}
+
+.calendar-card-content {
+ border-radius: 8px;
+ ;
+ box-shadow: 0 2px 4px var(--muted-border);
+ width: 40px;
+ height: 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ padding: 0.5rem;
+ background: none;
+}
+
+.calendar-card:hover {
+ transform: translateY(-4px);
+ 
+ box-shadow: 0 6px 12px var(--muted-border);
+}
+
+.calendar-day {
+ font-size: 0.6rem;
+ font-weight: bold;
+ text-transform: uppercase;
+ color: #555;
+}
+
+.calendar-date {
+ font-size: 1.3rem;
+ font-weight: bold;
+ line-height: 1.2;
+}
+
+.calendar-monthyear {
+ font-size: 0.55rem;
+ color: #777;
+}
+&lt;/style&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+&lt;div class="calendar-card"&gt;
+&lt;a href="https://butiran-x.github.io/26c95/"&gt;
+ &lt;div class="calendar-card-content" style="border: 0.5px solidnone;"&gt;
+ &lt;div class="calendar-day"&gt;THU&lt;/div&gt;
+ &lt;div class="calendar-date"&gt;26&lt;/div&gt;
+ &lt;div class="calendar-monthyear"&gt;Mar 2026&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.calendar-card, a {
+ display: inline-block;
+ text-decoration: none;
+ color: inherit;
+ transition: transform 0.2s ease, box-shadow 0.2s ease;
+ margin-top: 2px;
+ margin-right: 2px;
+}
+
+.calendar-card-content {
+ border-radius: 8px;
+ ;
+ box-shadow: 0 2px 4px var(--muted-border);
+ width: 40px;
+ height: 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ padding: 0.5rem;
+ background: none;
+}
+
+.calendar-card:hover {
+ transform: translateY(-4px);
+ 
+ box-shadow: 0 6px 12px var(--muted-border);
+}
+
+.calendar-day {
+ font-size: 0.6rem;
+ font-weight: bold;
+ text-transform: uppercase;
+ color: #555;
+}
+
+.calendar-date {
+ font-size: 1.3rem;
+ font-weight: bold;
+ line-height: 1.2;
+}
+
+.calendar-monthyear {
+ font-size: 0.55rem;
+ color: #777;
+}
+&lt;/style&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+&lt;div class="calendar-card"&gt;
+&lt;a href="https://butiran-x.github.io/26c94/"&gt;
+ &lt;div class="calendar-card-content" style="border: 0.5px solidnone;"&gt;
  &lt;div class="calendar-day"&gt;WED&lt;/div&gt;
  &lt;div class="calendar-date"&gt;25&lt;/div&gt;
  &lt;div class="calendar-monthyear"&gt;Mar 2026&lt;/div&gt;
@@ -226057,7 +228890,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -226744,7 +229577,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -227595,7 +230428,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -228122,7 +230955,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -229107,7 +231940,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -229184,7 +232017,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -229818,7 +232651,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -229947,7 +232780,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -231678,7 +234511,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -233238,7 +236071,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -234675,7 +237508,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -235935,7 +238768,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -237122,7 +239955,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -238448,7 +241281,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -239565,7 +242398,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -240627,7 +243460,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -241980,7 +244813,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -243461,7 +246294,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -244341,7 +247174,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -244989,7 +247822,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -245907,7 +248740,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -246682,7 +249515,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -247369,7 +250202,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -248133,7 +250966,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -249018,7 +251851,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -249814,7 +252647,9 @@ README.md" target="_blank" rel="noopener"&gt;
 &lt;/a&gt;
  Info about login account change.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>sub-data</title><link>https://butiran-x.github.io/25g78/</link><pubDate>Tue, 29 Jul 2025 05:11:38 +0700</pubDate><guid>https://butiran-x.github.io/25g78/</guid><description>&lt;!-- more --&gt;
-&lt;pre tabindex="0"&gt;&lt;code&gt;20260325 15 m (==, syl-05) 
+&lt;pre tabindex="0"&gt;&lt;code&gt;20260327 13 m (==, syl-07) 
+20260326 14 m (==, syl-06) 
+20260325 15 m (==, syl-05) 
 20260324 9 m (==, syl-04)
 20260323 10 m (&amp;gt;=, syl-03)
 20260322 8 m (&amp;gt;=, syl-02)
@@ -250024,7 +252859,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -250760,7 +253595,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -251303,7 +254138,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -251970,7 +254805,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -252961,7 +255796,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -253932,7 +256767,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -254587,7 +257422,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -255260,7 +258095,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395540"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -256327,7 +259162,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -257191,7 +260026,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -258715,7 +261550,7 @@ drawGrainsOnCanvas(grains, can);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -260074,7 +262909,7 @@ main_25g54();
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -261595,7 +264430,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -262775,7 +265610,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -263864,7 +266699,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -264899,7 +267734,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -266137,7 +268972,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -267028,7 +269863,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -268136,7 +270971,7 @@ $$&lt;/p&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -268857,7 +271692,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -269451,7 +272286,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -270045,7 +272880,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -270636,7 +273471,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -272161,7 +274996,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -273431,7 +276266,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -274337,7 +277172,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -275443,7 +278278,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -276306,7 +279141,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -278030,7 +280865,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -279209,7 +282044,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -279916,7 +282751,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -280421,7 +283256,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -281149,7 +283984,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -281643,7 +284478,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -281834,7 +284669,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -282539,7 +285374,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -283462,7 +286297,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -284135,7 +286970,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -285399,7 +288234,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -286149,7 +288984,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -286685,7 +289520,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -287114,7 +289949,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -287607,7 +290442,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -288198,7 +291033,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -289296,7 +292131,7 @@ btnRun.addEventListener("click", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -289965,7 +292800,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -290957,7 +293792,7 @@ txa.addEventListener("input", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -291915,7 +294750,7 @@ btn.addEventListener("click", () =&gt; {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -292591,7 +295426,7 @@ select option {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -298355,6 +301190,7 @@ select option {
  [20250602].&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>meta packages</title><link>https://butiran-x.github.io/25f33/</link><pubDate>Mon, 02 Jun 2025 03:44:15 +0700</pubDate><guid>https://butiran-x.github.io/25f33/</guid><description>&lt;!-- more --&gt;
 &lt;h2 id="26-03"&gt;26-03&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;code&gt;26-mar-2026&lt;/code&gt; Unterhoseproblem noch.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;25-mar-2026&lt;/code&gt; Unterhoseproblem seit einigen Tagen, kalte draussen aber heiss innern.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;xx-mar-2026&lt;/code&gt; Satay-stäbchen in der linken Zeigfinger.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;09-mar-2026&lt;/code&gt; Doppelfüsser an Obeneboden.&lt;/li&gt;
@@ -300871,7 +303707,7 @@ oth:
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -302251,7 +305087,7 @@ addExampleToTextarea(inp);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -303552,7 +306388,7 @@ addExampleToTextarea(inp);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -304762,7 +307598,7 @@ flowchart LR
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -305775,7 +308611,7 @@ flowchart LR
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -306919,7 +309755,7 @@ flowchart LR
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -307834,7 +310670,7 @@ flowchart LR
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -309198,7 +312034,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -309979,7 +312815,7 @@ function calc() {
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -310712,7 +313548,7 @@ drawMatrixOnCanvas(can, m, getColor);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -311560,7 +314396,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -312323,7 +315159,7 @@ addTextToTextarea2(out, pst1, dist);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -313257,7 +316093,7 @@ addTextToTextarea2(out, pst1, dist);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -313971,7 +316807,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -314439,7 +317275,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -314900,7 +317736,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -315178,7 +318014,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -315487,7 +318323,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -315675,7 +318511,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -315877,7 +318713,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -316077,7 +318913,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -316203,7 +319039,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -316303,7 +319139,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -316356,7 +319192,7 @@ cnt.appendChild(img);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -316762,7 +319598,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -317699,7 +320535,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -317996,7 +320832,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -318167,7 +321003,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -318241,7 +321077,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -319001,7 +321837,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -319302,7 +322138,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -319454,7 +322290,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -319554,7 +322390,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -319654,7 +322490,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -320627,7 +323463,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -321165,7 +324001,7 @@ README.md" target="_blank" rel="noopener"&gt;
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -321467,7 +324303,7 @@ U(["UI"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -321574,7 +324410,7 @@ U(["UI"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -321707,7 +324543,7 @@ U(["UI"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -321922,7 +324758,7 @@ U(["UI"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -322046,7 +324882,7 @@ U(["UI"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -322282,7 +325118,7 @@ U(["UI"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -322624,7 +325460,7 @@ cnt.append(ibx.div);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -322857,7 +325693,7 @@ cnt.append(cbx.div);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -322966,7 +325802,7 @@ cnt.append(cbx.div);
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -323325,7 +326161,7 @@ E(["End"])
 
 
 
-&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774395539"&gt;
+&lt;link rel="stylesheet" href="https://butiran-x.github.io/css/table-0.css?v=1774620624"&gt;
 
 &lt;div class="table-0"&gt;
 &lt;table&gt;
@@ -327980,6 +330816,15 @@ README.md" target="_blank" rel="noopener"&gt;
 &lt;/a&gt;
  In the field with tent.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>tue 01.04.25</title><link>https://butiran-x.github.io/25d00/</link><pubDate>Tue, 01 Apr 2025 17:41:00 +0700</pubDate><guid>https://butiran-x.github.io/25d00/</guid><description/></item><item><title>js-abm on hugo-post</title><link>https://butiran-x.github.io/25c70/</link><pubDate>Mon, 31 Mar 2025 02:47:53 +0700</pubDate><guid>https://butiran-x.github.io/25c70/</guid><description/></item><item><title>mon 31.03.25</title><link>https://butiran-x.github.io/25c69/</link><pubDate>Mon, 31 Mar 2025 02:20:17 +0700</pubDate><guid>https://butiran-x.github.io/25c69/</guid><description/></item><item><title>sun 30.03.25</title><link>https://butiran-x.github.io/25c68/</link><pubDate>Sun, 30 Mar 2025 03:16:06 +0700</pubDate><guid>https://butiran-x.github.io/25c68/</guid><description/></item><item><title>sat 29.03.25</title><link>https://butiran-x.github.io/25c67/</link><pubDate>Sat, 29 Mar 2025 03:20:37 +0700</pubDate><guid>https://butiran-x.github.io/25c67/</guid><description/></item><item><title>fri 28.03.25</title><link>https://butiran-x.github.io/25c66/</link><pubDate>Fri, 28 Mar 2025 09:04:20 +0700</pubDate><guid>https://butiran-x.github.io/25c66/</guid><description/></item><item><title>progresslist shortcode</title><link>https://butiran-x.github.io/25c65/</link><pubDate>Thu, 27 Mar 2025 05:04:52 +0700</pubDate><guid>https://butiran-x.github.io/25c65/</guid><description/></item><item><title>thu 27.03.25</title><link>https://butiran-x.github.io/25c64/</link><pubDate>Thu, 27 Mar 2025 03:46:52 +0700</pubDate><guid>https://butiran-x.github.io/25c64/</guid><description/></item><item><title>wed 26.03.25</title><link>https://butiran-x.github.io/25c63/</link><pubDate>Wed, 26 Mar 2025 02:52:09 +0700</pubDate><guid>https://butiran-x.github.io/25c63/</guid><description/></item><item><title>tue 25.03.25</title><link>https://butiran-x.github.io/25c62/</link><pubDate>Tue, 25 Mar 2025 02:51:56 +0700</pubDate><guid>https://butiran-x.github.io/25c62/</guid><description/></item><item><title>sevi nurafni</title><link>https://butiran-x.github.io/25c61/</link><pubDate>Mon, 24 Mar 2025 17:16:25 +0700</pubDate><guid>https://butiran-x.github.io/25c61/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;26-mar-2026&lt;/code&gt; 
+
+
+&lt;a href="https://github.com/dudung/
+25c61/blob/main/22/
+README.md" target="_blank" rel="noopener"&gt;
+ &lt;code&gt;25c61.22&lt;/code&gt;
+&lt;/a&gt;
+ Data-viz intel-property plan.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;29-dec-2025&lt;/code&gt; 
 
 
