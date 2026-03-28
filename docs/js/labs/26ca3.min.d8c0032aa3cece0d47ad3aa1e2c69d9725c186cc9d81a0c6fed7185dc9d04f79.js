@@ -1,0 +1,14 @@
+(()=>{function l(t){const s=document.getElementById(t);return s instanceof HTMLDivElement?(Object.assign(s.style,e),s):null}var e={},t=[],n=[],o=[];function i(e){const n=e.getBoundingClientRect(),t=window.devicePixelRatio||1;e.width=n.width*t,e.height=n.height*t;const s=e.getContext("2d");s.scale(t,t)}function a(e,t={},n=r){let s=document.createElement("div");s.className="panel",Object.assign(s.style,t);for(let n of e){let t=document.createElement("button");t.innerHTML=n,t.style.flex="1",s.append(t)}return s.addEventListener("click",e=>{n(e)}),s}function r(e){const s=e.target.closest("button");if(s.innerHTML=="wipe"&&(t[0].value="",t[1].value=""),s.innerHTML=="data"){let n="";n+=`# cell types
+`,n+=`VOID 0
+`,n+=`ENDO 1
+`,n+="EDGE 2",t[0].value=n;let e="";e+=`0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+`,e+=`0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+`,e+=`0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+`,e+=`2;2;2;2;2;2;0;0;0;0;0;0;0;0;2;2;2;2;2;2
+`,e+=`1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+`,e+=`1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+`,e+=`2;2;2;2;0;0;0;0;2;2;2;2;0;0;0;0;2;2;2;2
+`,e+=`0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+`,e+=`0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+`,e+="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0",t[1].value=e}if(s.innerHTML=="read"){let e=t[1].value.split(`
+`);n=[];for(let s of e){let t=[],o=s.split(";");for(let e of o)t.push(parseInt(e));n.push(t)}o=structuredClone(n),console.log(o)}}function c(e,t={}){const n=document.createElement("div");n.className="panel",Object.assign(n.style,t);for(let s of e){let t=document.createElement("textarea");t.id=s,t.placeholder=s,t.style.flex="1",t.style.fontFamily="monospace",t.style.fontSize="9px",n.append(t)}return n}function s(e,t,n){const s=e.querySelectorAll(t),o=Math.min(s.length,n.length);for(let e=0;e<o;e++)s[e].style.flex=n[e]}function d(){const n=document.createElement("div");e={border:"0px solid #f44",height:"100%",display:"flex",flexDirection:"column"},Object.assign(n.style,e),e={display:"flex",flexDirection:"row"};const i=["params-input","agents-input"],o=c(i,e);s(o,"textarea",[1,3]),t=o.querySelectorAll("textarea"),e={display:"flex",flexDirection:"row"};const r=["wipe","data","read","exec"],l=a(r,e);return n.append(o),n.append(l),s(n,"div.panel",[6,1]),n}function u(e){const t=e.querySelectorAll("canvas");for(let e of t)i(e)}function h(t){e={marginTop:"1em",width:"320px",height:"150px",display:"flex",flexDirection:"column",background:"var(--box-bg)",border:"0 solid var(--border)"};const s=l(t,e),n=d();s.append(n),u(n)}window._26ca3={mount:e=>{h(e)}},(()=>{console.log("[marker] 26ca3.js loaded")})()})()
